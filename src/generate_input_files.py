@@ -17,7 +17,7 @@ def main():
             input = os.path.join("/", content_base, book, chapter) # Docker path starts with `/`
             input_files.append(input)
 
-    with open("src/data/input_files.yaml", "w") as fd:
+    with open("src/pandoc/input_files.yaml", "w") as fd:
         json.dump({"input-files": input_files}, fd, indent=2)
 
 if __name__ == "__main__":

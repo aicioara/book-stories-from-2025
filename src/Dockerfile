@@ -28,3 +28,5 @@ RUN apt-get install -y \
 COPY fonts /usr/share/fonts/truetype/apple/
 
 RUN luaotfload-tool -fu
+
+WORKDIR /pandoc

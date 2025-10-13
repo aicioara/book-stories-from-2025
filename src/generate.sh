@@ -4,7 +4,7 @@ THIS_DIR=$(dirname "$0")
 cd "${THIS_DIR}"
 cd ..
 
-set -x
+set -xe
 
 # cd src
 # docker build -t pandoc-aicioara:3.7.0.2 .
@@ -15,7 +15,7 @@ python src/generate_input_files.py
 docker run -it --rm \
     -v "$(pwd)/content:/content" \
     -v "$(pwd)/output:/output" \
-    -v "$(pwd)/src/data:/data" \
+    -v "$(pwd)/src/pandoc:/pandoc" \
     -v "/Users/aicioara/diary/diary/diary/:/Users/aicioara/diary/diary/diary/:ro" \
     pandoc-aicioara:3.7.0.2 \
     --defaults=settings.yaml \
@@ -28,7 +28,7 @@ exit 0
 docker run -it --rm \
     -v "$(pwd)/content:/content" \
     -v "$(pwd)/output:/output" \
-    -v "$(pwd)/src/data:/data" \
+    -v "$(pwd)/src/pandoc:/pandoc" \
     -v "/Users/aicioara/diary/diary/diary/:/Users/aicioara/diary/diary/diary/:ro" \
     -u "$(id -u):$(id -g)" \
     --entrypoint /bin/bash \
