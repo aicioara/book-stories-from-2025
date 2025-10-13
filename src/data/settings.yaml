@@ -1,0 +1,42 @@
+from: markdown
+to: pdf
+pdf-engine: xelatex
+
+metadata:
+  title: "Stories from 2025"
+  author: "Andrei Ioan Cioara"
+
+# A5 size is 148x210 mm
+# Bleed is defined as 0.125 in (3.18 mm) on each edge (6.36 mm added to each length)
+# https://help.lulu.com/en/support/solutions/articles/64000255584-what-is-full-bleed-
+#
+# Fonts are discussed in
+# https://chatgpt.com/share/68ed6cef-d4e0-8005-a8cd-170b36ac0f91
+variables:
+  geometry:
+    - inner=18mm        # choose preset values
+    - outer=18mm
+    - top=18mm
+    - bottom=25mm
+    # - papersize={154.36mm,216.36mm} # A5 + 2 * 3.18mm bleed
+    # - layoutwidth=148mm             # Actual A5 width
+    # - layoutheight=210mm            # Actual A5 height
+    # - layoutoffset={3.18mm,3.18mm}  # Center
+    # - showcrop                      # shows crop marks at trim edges
+    - papersize={148mm,210mm}
+  fontsize: 10pt
+  mainfont: "TeX Gyre Heros"   # Helvetica-compatible
+  sansfont: "TeX Gyre Heros"
+  emojifont: ["Apple Color Emoji", "Noto Color Emoji"] # Does not work
+
+
+# Ensure each chapter starts on a new page
+top-level-division: chapter
+
+toc: true
+toc-depth: 1
+
+# Allows attachments
+resource-path:
+  - /content
+  - .
