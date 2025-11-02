@@ -1,5 +1,5 @@
 # docker build -t pandoc-aicioara:3.7.0.2 .
-# docker run -it --rm -v $(pwd)/../content:/content $(pwd)/../output:/output pandoc-aicioara:3.7.0.2
+# docker run -it --rm -v $(pwd)/../content:/content -v $(pwd)/../output:/output pandoc-aicioara:3.7.0.2
 
 
 # https://hub.docker.com/r/pandoc/extra
@@ -25,8 +25,8 @@ RUN apt-get install -y \
     texlive-luatex texlive-latex-recommended texlive-latex-extra \
     fonts-texgyre fonts-noto-color-emoji fontconfig
 
-COPY fonts /usr/share/fonts/truetype/apple/
+RUN touch /v2
 
-RUN luaotfload-tool -fu
+COPY fonts /usr/share/fonts/truetype/apple/
 
 WORKDIR /pandoc

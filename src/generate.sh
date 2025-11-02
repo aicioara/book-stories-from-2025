@@ -6,9 +6,9 @@ cd ..
 
 set -xe
 
-# cd src
-# docker build -t pandoc-aicioara:3.7.0.2 .
-# cd -
+cd src
+docker build -t pandoc-aicioara:3.7.0.2 .
+cd -
 
 python src/generate_input_files.py
 

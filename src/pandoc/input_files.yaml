@@ -1,5 +1,6 @@
 {
   "input-files": [
+    "/content/markdown/01 - Introduction/00 - Blank.tex",
     "/content/markdown/01 - Introduction/01 - Book Acknowledgement.md",
     "/content/markdown/01 - Introduction/02 - Book Introduction.md",
     "/content/markdown/02 - Stories from 2025/0000 - Cover.tex",
@@ -10,7 +11,6 @@
     "/content/markdown/02 - Stories from 2025/2025-08-08 - LinkedIn Apple Announcement.md",
     "/content/markdown/02 - Stories from 2025/2025-08-08 - LinkedIn OpenAI Announcement.md",
     "/content/markdown/02 - Stories from 2025/2025-08-17 - OpenAI intro email.md",
-    "/content/markdown/02 - Stories from 2025/2025-08-23 - A counter offer by John Giannandrea.md",
     "/content/markdown/02 - Stories from 2025/2025-08-23 - My last day at Apple.md",
     "/content/markdown/02 - Stories from 2025/2025-08-23 - Why I resigned from Apple.md",
     "/content/markdown/02 - Stories from 2025/2025-09-12 - How I announced my resignation from Apple.md",
