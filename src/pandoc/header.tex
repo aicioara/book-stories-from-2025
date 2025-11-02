@@ -1,0 +1,40 @@
+% Fonts
+\usepackage{fontspec}
+\directlua{luaotfload.add_fallback("emojifallback", {"Apple Color Emoji:mode=harf;"})}
+\setmainfont{"HelveticaNeue"}[RawFeature={fallback=emojifallback}]
+\setsansfont{"HelveticaNeue"}[RawFeature={fallback=emojifallback}]
+\setmonofont{"Menlo"}[Scale=MatchLowercase,RawFeature={fallback=emojifallback}]
+\setmathrm{"HelveticaNeue"}[RawFeature={fallback=emojifallback}]
+\setmathsf{"HelveticaNeue"}[RawFeature={fallback=emojifallback}]
+\setmathtt{"Menlo"}[Scale=MatchLowercase,RawFeature={fallback=emojifallback}]
+
+% Page Breaks
+\usepackage{microtype}
+\usepackage[hyphens]{url}
+\usepackage{hyperref}
+\usepackage{fvextra}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines, breakanywhere, commandchars=\\\{\}}
+\sloppy
+\emergencystretch=3em
+
+% Headers & Footers
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}               % clear header/footer
+\fancyfoot[C]{\thepage}  % page number bottom-center
+\renewcommand{\headrulewidth}{0pt}
+
+% Add two empty pages for dedications
+\AtBeginDocument{%
+    \thispagestyle{empty}\null\newpage
+    \thispagestyle{empty}\null\newpage
+    \setcounter{page}{1}
+}
+
+% Title
+\usepackage{titling}
+\pretitle{\begin{center}\Huge\bfseries}
+\posttitle{\par\end{center}\vspace{3em}}
+
+% Pages
+\raggedbottom

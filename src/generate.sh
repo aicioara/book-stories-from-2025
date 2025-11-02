@@ -20,6 +20,7 @@ docker run -it --rm \
     pandoc-aicioara:3.7.0.2 \
     --defaults=settings.yaml \
     --defaults=input_files.yaml \
+    --include-in-header=header.tex \
     -o "/output/final.pdf"
 
 exit 0
