@@ -13,14 +13,21 @@ For full bleed images, you need
 ## High Level TOC
 
 - Introduction
+    - ❌ How is this book structured
 - Stories from 2025
-    - What happened in 2024
-        - [ ] How is this book structured
-    - Live journal
-    - New Year Resolutions
+    - ❌ Rehabbing my house in Sacramento
+    - ❌ A trip to India
+    - ❌ A karting detour
+    - ❌ My best purchases of 2025
+    - ❌ My best investments of 2025
+- Career moves
+    - ❌ Introductory chapter to explain what is going on
 - Ideas from 2025
-    - Articles about AI
-    - Sleep
-    - Visas
+    - ❌ Introductory chapter
 - Stories from the past
-    - [ ] Scoala Vasile Goldis
+    - ❌ Introductory chapter
+
+## Extras
+
+- ❌ Building a lego car (maybe next year)
+- Maybe replace some of the articles with the published blog articles?

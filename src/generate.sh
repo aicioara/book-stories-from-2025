@@ -21,7 +21,7 @@ docker run -it --rm \
     --defaults=settings.yaml \
     --defaults=input_files.yaml \
     --include-in-header=header.tex \
-    -o "/output/final.pdf"
+    -o "/output/StoriesFrom2025.pdf"
 
 exit 0
 
