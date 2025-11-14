@@ -12,20 +12,12 @@ For full bleed images, you need
 
 ## High Level TOC
 
-- Introduction
-    - ❌ How is this book structured
 - Stories from 2025
     - ❌ Rehabbing my house in Sacramento
     - ❌ A trip to India
     - ❌ A karting detour
     - ❌ My best purchases of 2025
     - ❌ My best investments of 2025
-- Career moves
-    - ❌ Introductory chapter to explain what is going on
-- Ideas from 2025
-    - ❌ Introductory chapter
-- Stories from the past
-    - ❌ Introductory chapter
 
 ## Extras
 

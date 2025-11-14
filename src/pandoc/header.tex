@@ -38,3 +38,19 @@
 
 % Pages
 \raggedbottom
+
+% Do not add Figure X prefix to captions
+\usepackage{caption}
+\captionsetup[figure]{labelformat=empty}
+
+% Center figures
+\usepackage{etoolbox}
+\makeatletter
+\preto{\@floatboxreset}{\centering}
+\makeatother
+
+% Bullet points should always be round
+\renewcommand{\labelitemi}{\textbullet}
+\renewcommand{\labelitemii}{\textbullet}
+\renewcommand{\labelitemiii}{\textbullet}
+\renewcommand{\labelitemiv}{\textbullet}

@@ -14,6 +14,7 @@ metadata:
 # https://chatgpt.com/share/68ed6cef-d4e0-8005-a8cd-170b36ac0f91
 variables:
   documentclass: book
+  classoption: [openany]
   geometry:
     - inner=18mm        # choose preset values
     - outer=18mm
