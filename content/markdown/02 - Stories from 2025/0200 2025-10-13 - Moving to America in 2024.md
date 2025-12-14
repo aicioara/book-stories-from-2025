@@ -2,8 +2,6 @@
 
 `September 1, 2024` - `December 15, 2024`
 
-This story starts in September 2024.
-
 Three years ago, right after meeting Laura, we had a deep conversation where we decided that we would want to both move to the US. Technically, I was already in the USA, but with the Pandemic still going strong and no ability to go to the office, I decided to spend some time in Romania, met Laura and never left.
 
 The options were pretty straightforward:
