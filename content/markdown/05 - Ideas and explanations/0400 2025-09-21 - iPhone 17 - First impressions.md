@@ -78,11 +78,6 @@ iPhone cases and bands are usually released with the iPhone and the Watches in t
 
 There are only five things that I am interested in: Braided Solo Loops, TechWoven Cases, Sport Loops, Silicon Solo Loops and Silicon Cases. I am reproducing them here in all their beauty, but the rights belong to Apple.
 
-![](attachments/Case%20Woven.jpg)
-![](attachments/Loop%20Braided%20Solo.jpg)
-![](attachments/Loop%20Sports.jpg)
-![](attachments/Loop%20Silicone%20Solo.jpg)
-![](attachments/Case%20Silicone.jpg)
 
 |      Type      |      1      |      2      |      3      |      4      |     5      |     6     |
 | :------------: | :---------: | :---------: | :---------: | :---------: | :--------: | :-------: |
@@ -91,6 +86,13 @@ There are only five things that I am interested in: Braided Solo Loops, TechWove
 |   Sport Loop   | Neon Yellow |     N/A     | Purple Fog  | Anchor Blue |   Forest   | Dark Gray |
 |   Solo Loop    | Neon Yellow |     N/A     | Light Blush | Anchor Blue | Green Gray |   Black   |
 | Silicone Case  | Neon Yellow | Terra Cotta | Purple Fog  |  Midnight   |   Orange   |   Black   |
+
+
+![](attachments/Case%20Silicone.jpg)
+![](attachments/Case%20Woven.jpg)
+![](attachments/Loop%20Braided%20Solo.jpg)
+![](attachments/Loop%20Sports.jpg)
+![](attachments/Loop%20Silicone%20Solo.jpg)
 
 ## Summary
 

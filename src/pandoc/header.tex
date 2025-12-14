@@ -60,3 +60,19 @@
 
 % No double space after periods
 \frenchspacing
+
+% Block Quotes
+\usepackage{xcolor}
+\usepackage{framed}
+
+\definecolor{quoteblue}{RGB}{52,109,187}
+
+\renewenvironment{quote}
+  {%
+    \def\FrameCommand{%
+      {\color{quoteblue}\vrule width 2pt}\hspace{0.8em}%
+    }%
+    \MakeFramed{\advance\hsize-\width\FrameRestore}%
+    \noindent\ignorespaces
+  }
+  {\endMakeFramed}
