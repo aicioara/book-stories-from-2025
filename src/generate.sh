@@ -12,6 +12,8 @@ cd -
 
 python src/generate_input_files.py
 
+today=$(date +%Y-%m-%d)
+
 docker run -it --rm \
     -v "$(pwd)/content:/content" \
     -v "$(pwd)/output:/output" \
@@ -21,7 +23,7 @@ docker run -it --rm \
     --defaults=settings.yaml \
     --defaults=input_files.yaml \
     --include-in-header=header.tex \
-    -o "/output/StoriesFrom2025.pdf"
+    -o "/output/StoriesFrom2025 - Draft $today - Blank.pdf"
 
 exit 0
 
