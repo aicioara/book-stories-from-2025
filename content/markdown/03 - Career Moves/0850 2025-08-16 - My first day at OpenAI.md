@@ -4,7 +4,7 @@
 
 I am writing this article 3 weeks after the fact. Some things may already be mixed up, but for the most part, I think I recall the majority of the facts. I will try to recall as many small details as possible, in the form of a brain dump and maybe later I can turn it into an article or something.
 
-This is a sequel of my article about [2025-08-23 - My last day at Apple](2025-08-23%20-%20My%20last%20day%20at%20Apple.md).
+This is a sequel of my article about \[My last day at Apple\].
 
 ---
 
@@ -47,7 +47,7 @@ The intros were REALLY good. I can recall parts of the first days in a bunch of 
 - At Apple, I remember them telling us that the way to succeed at Apple is to make friends. In other words, Apple is a social capital intensive corporation. I called it interesting and I dedicated the next couple of years actually doing that
 
 There are a few things that stand out from these intros, but by August 17 when I am writing this, I forgot most of what happened three weeks ago.
-- I remember them telling us that having OpenAI on LinkedIn will put a target on our backs and people will be all of a sudden very interseted in us. They told us that they have ex-FBI agents and ex-military and if we want help to keep a low profile, they can help us
+- I remember them telling us that having OpenAI on LinkedIn will put a target on our backs and people will be all of a sudden very interested in us. They told us that they have ex-FBI agents and ex-military and if we want help to keep a low profile, they can help us
 - I remember one of the most interesting icebreakers that I've ever seen, where a guy was asking yes/no questions and we had to stand up or sit down based on whether we agreed or not with the statement, then he'd select one person from each side to defend their position. All questions were about AI: like will there be a 1-person billion-dollar corporation with the help of AI in the future
 - I remember having one of the best handholds ever, where they showed us how to set up EVERYTHING. Super efficient.
 - I remember the best codelab, where they showed us how to deploy stuff to production and they told us that OpenAI has a tradition of shipping on day 1. That meant that every team was supposed to have one bug ready for you. You should be able to fix it and merge the code within the next day. Great momentum!

@@ -1,6 +1,5 @@
 # Moving to America in 2024
 
-#stories
 `September 1, 2024` - `December 15, 2024`
 
 This story starts in September 2024.
@@ -54,6 +53,3 @@ Something did change. In a flash of inspiration, Laura noticed that her team was
 
 We packed our stuff, cancelled the rent in Zurich, booked an AirBnB in USA, cancelled our New Year Eve trip to Tunisia, abandoned our plans to go to Romania, boarded a plane and moved to the United States for real, together, with the right for the both of us to work in the United States.
 
-Next chapter:
-
-[2025-06-19 - How I spent the first 6 months of 2025](2025-06-19%20-%20How%20I%20spent%20the%20first%206%20months%20of%202025.md)

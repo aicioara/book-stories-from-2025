@@ -2,7 +2,7 @@
 
 Alex Solot, a good friend of mine, visited the Bay Area yesterday. He was a bit disorganized with the planning, but insisted to bring his manager (also Alex) along, so I also brought Laura along. We planned to go visit Muir Woods, but then changed to Santa Cruz, which was closer, then changed again to Alviso which was even closer, which is where we went. After a quick walk, they got hungry, so Laura wanted to go to the Google Visitor Center to grab an early dinner. Since we were there, I proposed to go and also visit the Apple Visitor Center, so that we can also see the new iPhones.
 
-I wrote earlier about the latest [2025-09-14 - iPhone](2025-09-14%20-%20iPhone.md) and the fact that I am considering upgrading my 6 year old iPhone 11 Pro with something new. Since I was there yesterday, I wanted to capture my initial thoughts while they are still fresh. So here it goes.
+I wrote earlier about the latest \[iPhone\] and the fact that I am considering upgrading my 6 year old iPhone 11 Pro with something new. Since I was there yesterday, I wanted to capture my initial thoughts while they are still fresh. So here it goes.
 
 First of all, what impressed me was the store itself. The line was wrapping around the building. We initially thought that was the line to get into the store, similar to the one in Dubai, but instead it was the line to pick up the phone for a particular time slot that people picked. Turns out that the iPhone is still strong in sales, which I personally expected. Both the iPhone (17?) Air and the iPhone 17 Pro are different from last year's models.
 

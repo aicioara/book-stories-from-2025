@@ -2,7 +2,7 @@
 
 I am writing these words 4 weeks after the fact. Some things may already be mixed up, but for the most part, I think I recall the majority of the facts. I will try to recall as many small details as possible, in the form of a brain dump and maybe later I can turn it into an article or something.
 
-This is a prequel to [2025-08-16 - My first day at OpenAI](2025-08-16%20-%20My%20first%20day%20at%20OpenAI.md).
+This is a prequel to \[My first day at OpenAI\].
 
 ---
 
@@ -51,7 +51,7 @@ At 15:00, I shared the news with Michael Xu that I am in fact leaving, then met 
 
 Helen thanked me for the 6 years at Apple and told me that there is some paperwork that I need to take care of.
 
-At 16:40, I sent [2025-08-08 - Apple Farewell Email](2025-08-08%20-%20Apple%20Farewell%20Email.md) and I got a couple of messages back on Slack.
+At 16:40, I sent \[Apple Farewell Email\] and I got a couple of messages back on Slack.
 
 Roshni Pradeep was particularly excited about my departure to OpenAI. This other guy who reported to Kevin Hsu wanted to have a WebEx call with me. It was the guy whose team I wanted to join when I eventually picked Ievgen, the guy who was not interested in me and never found a time to meet me to discuss his team. I guess, all of a sudden, he was interested.
 
@@ -96,7 +96,7 @@ I gave my final farewells, then headed out the gate on Tantau's reception. The g
 
 By the time I got home it was already quite late. My last photo at Apple park was taken at 22:21, so I must have gotten home around 23:00.
 
-I then realized that I haven't finished the Workday assignments for OpenAI, so I started doing that. Of course it was too late, read more in [2025-08-16 - My first day at OpenAI](2025-08-16%20-%20My%20first%20day%20at%20OpenAI.md). I rushed to finish that because I had to wake up at 6:00 the next morning.
+I then realized that I haven't finished the Workday assignments for OpenAI, so I started doing that. Of course it was too late, read more in \[My first day at OpenAI\]. I rushed to finish that because I had to wake up at 6:00 the next morning.
 
 My sleep tracking tells me that I spent 6 hr and 3 min in bed that night, of which 5:45 were slept, from 00:13 to 06:00.
 

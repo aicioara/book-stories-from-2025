@@ -14,7 +14,7 @@ A very good resource not only for comparing levels, but also salaries is https:/
 
 In terms of naming, I generally use Google's scheme because it is more complete, but your milage may vary.
 
-![](attachments/Screen%20Shot%202025-08-23%20at%2015.34.52.png)
+![Comparable Levels in FAANG](attachments/Screen%20Shot%202025-08-23%20at%2015.34.52.png)
 
 ## The ladder
 
@@ -93,7 +93,7 @@ Expectations:
 - You understand the company and what strategic goal every project has
 
 Issues:
-- You don't get to interract with the CEO or the SVPs
+- You don't get to interact with the CEO or the SVPs
 - You do not set strategic paths for the entire company
 
 #### Distinguished Engineer

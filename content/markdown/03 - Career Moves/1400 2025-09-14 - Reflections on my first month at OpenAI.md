@@ -1,6 +1,6 @@
 # Reflections on my first month at OpenAI
 
-It has been over a month since I quit Apple to join OpenAI, and I thought that today would be a good time to reflect over these changes. This article will ineviatbly go into some lightweight details about OpenAI itself, but you will not find any trade secrets here. I was really impressed when I read [Calvin's blog post about the culture at OpenAI](https://calv.info/openai-reflections) and that article helped me a lot in setting up my expectations when joining. I will be giving my own, lighter version of that post, bearing in mind that I've only been with the company for a month.
+It has been over a month since I quit Apple to join OpenAI, and I thought that today would be a good time to reflect over these changes. This article will inevitably go into some lightweight details about OpenAI itself, but you will not find any trade secrets here. I was really impressed when I read [Calvin's blog post about the culture at OpenAI](https://calv.info/openai-reflections) and that article helped me a lot in setting up my expectations when joining. I will be giving my own, lighter version of that post, bearing in mind that I've only been with the company for a month.
 
 Obviously, none of these words are the views of the company, these are all my own opinions. Also, OpenAI is a big place and the culture and individual experiences differ with the team. With that said, let's dive right in.
 

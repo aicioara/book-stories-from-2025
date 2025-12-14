@@ -2,13 +2,6 @@
 
 *In this article, I want to write down the most comprehensive overview of the entire process, as a brain dump. I can maybe refine and extract information from this later.*
 
-*\- Andrei Cioara*
-
----
-
-- [2025-08-23 - Interviewing with OpenAI Part 1](2025-08-23%20-%20Interviewing%20with%20OpenAI%20Part%201.md)
-- [2025-08-23 - Interviewing with OpenAI Part 2](2025-08-23%20-%20Interviewing%20with%20OpenAI%20Part%202.md)
-
 ---
 
 ## Preparing for the interview
@@ -17,7 +10,6 @@
 
 ![](attachments/Screen%20Shot%202025-08-23%20at%2008.28.38.png)
 ![](attachments/Screen%20Shot%202025-08-23%20at%2008.31.46.png)
-
 
 - The daily problem on Leetcode, every day, no skip, no pre-reading solutions
 	- This got me into the right headspace

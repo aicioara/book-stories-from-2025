@@ -1,9 +1,5 @@
 # How I announced my resignation from Apple
 
-*This is a more reader friendly version of [2025-08-23 - A counter offer by John Giannandrea](2025-08-23%20-%20A%20counter%20offer%20by%20John%20Giannandrea.md). There, I focused on the money. Here, I focus on the story that unfolded. Because this story got too long, I broke it into two parts*
-- [2025-08-23 - Why I resigned from Apple](2025-08-23%20-%20Why%20I%20resigned%20from%20Apple.md)
-- [2025-09-12 - How I announced my resignation from Apple](2025-09-12%20-%20How%20I%20announced%20my%20resignation%20from%20Apple.md)
-
 ⛔️⚠️ Some parts of this text are semi-private. Particularly around comp multipliers.⚠️⛔️
 
 ## The timeline constraints
@@ -121,6 +117,6 @@ After running the numbers, I made up my mind that if the offer came back to be t
 
 Saturday and Sunday passed without any more words and on Monday morning, I received the text from Michael that he finally has an approved offer.
 
-I wrote all the details about July 28, which was my final day at Apple in [2025-08-23 - My last day at Apple](2025-08-23%20-%20My%20last%20day%20at%20Apple.md). The short version is that the number that Apple gave me matched the one that Frank Chu shared, so by this time and for this number I already made up my mind. I told Michael that I am not taking it, sent an email to my entire team announcing my resignation and submitted the official resignation letter to the system.
+I wrote all the details about July 28, which was my final day at Apple in \[My last day at Apple\]. The short version is that the number that Apple gave me matched the one that Frank Chu shared, so by this time and for this number I already made up my mind. I told Michael that I am not taking it, sent an email to my entire team announcing my resignation and submitted the official resignation letter to the system.
 
 The entire story is now spread across a couple of articles and maybe I can put them together at some point. For now, this is the story of how I resigned from Apple.

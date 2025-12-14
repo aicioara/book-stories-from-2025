@@ -1,6 +1,6 @@
 # Introduction
 
-Writing a book has been a life-long dream of mine, but I am an overthinker. I want to make it perfect and accessible to a large audience, a task that is both daunting and time consuming.
+Writing a book has been a life-long dream of mine, but I am an over-thinker. I want to make it perfect and accessible to a large audience, a task that is both daunting and time consuming.
 
 In an attempt to have a larger bias to action and recognize that "done" is better than "perfect", I am taking a slight detour. Instead of writing (and never finishing) the book I always wanted to write, I will write a book that is imperfect and personal.
 

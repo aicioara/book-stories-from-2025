@@ -1,7 +1,5 @@
 # Apple Farewell Email
 
-https://mail.google.com/mail/u/0/#search/farewell/FMfcgzQbgRvDSMZHjLQTVGVxfPWfGTTl
-
 |          |     |                                         |     |
 | -------- | --- | --------------------------------------- | --- |
 | from:    |     | Andrei Cioara <andrei.cioara@apple.com> |     |
@@ -30,8 +28,7 @@ Finally I want to thank my informal mentor, Uday Rayala, for all of your guidanc
 I will still live in Cupertino for the foreseeable future and I hope that we stay in touch and grab the occasional coffee. Let me know if I can help with anything.
 
 - LinkedIn: [https://www.linkedin.com/in/andreicioara](https://www.linkedin.com/in/andreicioara)
-- Email: [andrei@cioara.me](mailto:andrei@cioara.me)
-- Alt email: [cioara.andrei93@gmail.com](mailto:cioara.andrei93@gmail.com)
+- Email: [cioara.andrei+sanitized@gmail.com](mailto:cioara.andrei+sanitized@gmail.com)
 
 I am sure that our paths will cross again in the future. Until then, please continue collaborating, innovating and building these amazing products that I, my family, and the entire world deeply love.
 

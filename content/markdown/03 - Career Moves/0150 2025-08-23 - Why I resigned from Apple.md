@@ -1,11 +1,5 @@
 # Why I resigned from Apple
 
-*This is a more reader friendly version of [2025-08-23 - A counter offer by John Giannandrea](2025-08-23%20-%20A%20counter%20offer%20by%20John%20Giannandrea.md). There, I focused on the money. Here, I focus on the story that unfolded. Because this story got too long, I broke it into two parts*
-- [2025-08-23 - Why I resigned from Apple](2025-08-23%20-%20Why%20I%20resigned%20from%20Apple.md)
-- [2025-09-12 - How I announced my resignation from Apple](2025-09-12%20-%20How%20I%20announced%20my%20resignation%20from%20Apple.md)
-
-## The background
-
 Today I want to tell the story about leaving Apple, the decisions that took me there, the straw that broke the camel's back and my final two weeks with the company.
 
 To begin with, I never thought I will be at Apple for more than 2-3 months. I joined the company thinking that I would leave it. That is because I applied for the company in a time when I really wanted to move to the United States (March 2018) and I received all documentation for the move a little over a year later (June 2019), when my life already moved on to greener pastures and I already had a very different and very exciting alternative trajectory.
@@ -52,8 +46,6 @@ Only it didn't.
 
 Because I left.
 
-The details of how I [2025-08-23 - How Dima convinced me to join OpenAI](2025-08-23%20-%20How%20Dima%20convinced%20me%20to%20join%20OpenAI.md) are written in a different article, so I will not repeat them here.
-
 One thing to mention is that I loved my time at Apple. But there were also a couple of "papercuts" that made me start considering something else. Before going into those, I just want to make clear that I would have stayed at Apple even without the papercuts and, while they carried some weight and make a good story, they are not necessarily material in my decision.
 
 ## The straw that broke the camel's back
@@ -67,7 +59,7 @@ However, the straw that broke the camel's back was the conversation that also ma
 
 In February 2025 I got a massive scare. I just finally moved to the US with Laura and we realized that our visas were in jeopardy due to a small oversight on my and my lawyer's part. In its current state, the visa would expire in May 2025. I could renew my visa and Laura's visa before that, but the EAD, Laura's work authorization would only renew by July 2025, resulting in a 1.5-2 month gap. Google would only give her 1 month of unpaid leave, after which she would be terminated. She would not have risked that, so she would have returned to Zurich indefinitely. I would not have let her leave alone, so I would also have left the USA indefinitely.
 
-Needless to say, this was a big thing. But the lawyers downplayed it. They argued that they only represeted Apple, and Apple only wanted me to the USA, they did not care much about my wife. They could not (or did not want to) understand why the fact that my wife was leaving meant that I would also leave. From their standpoint, that would be a personal decision, which was crazy. Do these people have no idea what a marriage means?
+Needless to say, this was a big thing. But the lawyers downplayed it. They argued that they only represented Apple, and Apple only wanted me to the USA, they did not care much about my wife. They could not (or did not want to) understand why the fact that my wife was leaving meant that I would also leave. From their standpoint, that would be a personal decision, which was crazy. Do these people have no idea what a marriage means?
 
 One desperate way to fix this issue was to pay for something called "premium processing". That would expedite the entire process and we would get the visas and the work permit in 3 weeks, but it was not guaranteed. From January 2025, they introduced a new rule saying that the three documents no longer "had" to be considered together. It did not say they would not do it, just that they did not HAVE to do it. Paying for the premium processing would guarantee 3 weeks for one of the visas, so if the three were bundled, it would guarantee 3 weeks for the bundle. But the bundle itself was no longer guaranteed.
 
@@ -82,5 +74,3 @@ I ended up paying the $3,000 myself, but at that time, I promised myself that I 
 Just for closure, it turned out that the $3,000 were vital to our application. The clerk who reviewed our application decided to bundle the three documents together and, because I paid the money, we got both visas and a new work authorization for Laura in three weeks, removing one of the biggest scares of my immigration life.
 
 From paying $3,000 to anouncing my resignation at Apple, not much has happened. After my manager retired, I landed in Frank Chu's org (as I mentioned earlier) and started a couple of really exciting projects. But I was already in the interview process with Facebook and OpenAI. I wrote about those in other chapters, so I will just skip forward to announcing my resignation and I will continue the story in a different article.
-
-[2025-09-12 - How I announced my resignation from Apple](2025-09-12%20-%20How%20I%20announced%20my%20resignation%20from%20Apple.md)

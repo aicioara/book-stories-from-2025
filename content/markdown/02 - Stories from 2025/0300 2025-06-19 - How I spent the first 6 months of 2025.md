@@ -1,10 +1,6 @@
 # How I spent the first 6 months of 2025
 
-#stories
 `December 15, 2024` - `June 15, 2025`
-
-Previous Chapter:
-[2025-10-13 - Moving to America in 2024](2025-10-13%20-%20Moving%20to%20America%20in%202024.md)
 
 Hello!
 
@@ -94,7 +90,3 @@ With these in the bag, we boarded the plane and returned to the USA. I am ready 
 
 And that's the first 6 months of 2025. I hope that you enjoyed the read. On another note, pretty much everyone I met recently asked for my opinion regarding everything that is happening in the Artificial Intelligence space. So I wrote a couple of articles about that and I will be sending them out over the next few weeks. Also stay tuned for a couple of announcements.
 
-Andrei
-
-Next Chapter:
-[2025-10-13 - How I spent the summer of 2025](2025-10-13%20-%20How%20I%20spent%20the%20summer%20of%202025.md)

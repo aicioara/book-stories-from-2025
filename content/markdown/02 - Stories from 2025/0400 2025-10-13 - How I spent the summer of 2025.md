@@ -1,10 +1,6 @@
 # How I spent the summer of 2025
 
-#stories
 `June 16, 2025` - `September 30, 2025`
-
-Previous Chapter:
-[2025-06-19 - How I spent the first 6 months of 2025](2025-06-19%20-%20How%20I%20spent%20the%20first%206%20months%20of%202025.md)
 
 For me, the year starts approximately on October 1 and ends approximately on September 30. My first day of school was September 15, 2000. First day of university was October 1, 2012. First day of work was September 4, 2016.
 
@@ -12,7 +8,7 @@ More importantly, for the past 6 years the Apple Fiscal year started in October 
 
 This article basically covers the end of 2025. I already talked about:
 - Q1 - Moving to the US
-- Q2+Q3 - [2025-06-19 - How I spent the first 6 months of 2025](2025-06-19%20-%20How%20I%20spent%20the%20first%206%20months%20of%202025.md)
+- Q2+Q3 - How I spent the first 6 months of 2025
 - Q4 - This article
 
 With that out of the way, in my previous article, I was just boarding on our plane from Romania and returning to the USA on June 15. Let's continue from there.
@@ -52,9 +48,9 @@ Ionut was absolutely furious because I did not get out to change the kart. I tol
 
 Everything else is a blur, but in the end we finished 4th, with a very sour taste. After celebrations, I headed home and slept from 2 PM until the next morning, then drove home to Alba Iulia.
 
-Returning to Alba Iulia was now exciting and scary. After finshing with the Greece trip and the Karting competition, and until going to Alex' wedding and flying back to the US, I had to put in my resignation from Apple, as I was about to join OpenAI, one week after returning to the USA.
+Returning to Alba Iulia was now exciting and scary. After finishing with the Greece trip and the Karting competition, and until going to Alex' wedding and flying back to the US, I had to put in my resignation from Apple, as I was about to join OpenAI, one week after returning to the USA.
 
-I wrote more about the resignation step in [2025-09-12 - How I announced my resignation from Apple](2025-09-12%20-%20How%20I%20announced%20my%20resignation%20from%20Apple.md) and I explained the visa constraints more in [2025-09-21 - H-1B Executive order](2025-09-21%20-%20H-1B%20Executive%20order.md), but I will give a small summary here.
+I wrote more about the resignation step in \[How I announced my resignation from Apple\] and I explained the visa constraints more in \[H-1B Executive order\], but I will give a small summary here.
 
 In April 2025, I interviewed with OpenAI, received an offer in May 2025 and accepted it while in my first Romanian trip. Due to a quirk of the offer, joining around the last day of the month had a chance of being financially better than joining around the first day of the following month, mostly due to off by one details. I wanted to join at the end of May, right after my offer, but that was impossible because I had to renew my visa. I then wanted to join end of June, but I did not want to join just to leave for (this) trip to Romania. This meant that the soonest I could join was end of July. More specifically July 28.
 
