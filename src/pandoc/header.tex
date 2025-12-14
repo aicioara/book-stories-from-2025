@@ -69,10 +69,14 @@
 
 \renewenvironment{quote}
   {%
+    \vspace{1.0\baselineskip} % space before
     \def\FrameCommand{%
       {\color{quoteblue}\vrule width 2pt}\hspace{0.8em}%
     }%
     \MakeFramed{\advance\hsize-\width\FrameRestore}%
     \noindent\ignorespaces
   }
-  {\endMakeFramed}
+  {%
+    \endMakeFramed
+    \vspace{0.5\baselineskip} % space after
+  }
