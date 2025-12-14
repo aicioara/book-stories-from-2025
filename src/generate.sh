@@ -21,7 +21,7 @@ docker run -it --rm \
     -v "/Users/aicioara/diary/diary/diary/:/Users/aicioara/diary/diary/diary/:ro" \
     pandoc-aicioara:3.7.0.2 \
     --defaults=settings.yaml \
-    --defaults=input_files.yaml \
+    --defaults=input_files_english.yaml \
     --include-in-header=header.tex \
     -o "/output/StoriesFrom2025 - Draft $today - Blank.pdf"
 

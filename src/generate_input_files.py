@@ -9,7 +9,7 @@ def main():
 
     input_files = []
 
-    content_base = os.path.join("content", "markdown")
+    content_base = os.path.join("content", "english")
     books = sorted(os.listdir(content_base))
     for book in books:
         chapters = sorted(os.listdir(os.path.join(content_base, book)))
@@ -17,7 +17,7 @@ def main():
             input = os.path.join("/", content_base, book, chapter) # Docker path starts with `/`
             input_files.append(input)
 
-    with open("src/pandoc/input_files.yaml", "w") as fd:
+    with open("src/pandoc/input_files_english.yaml", "w") as fd:
         json.dump({"input-files": input_files}, fd, indent=2)
 
 if __name__ == "__main__":
