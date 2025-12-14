@@ -1,6 +1,11 @@
-# LinkedIn OpenAI Announcement
+# I'm joining OpenAI
 
-`August 11, 2025`
+|          |     |                             |     |
+| -------- | --- | --------------------------- | --- |
+| from:    |     | Andrei Cioara @andreicioara |     |
+| to:      |     | LinkedIn Audience           |     |
+| date:    |     | August 11, 2025, 7:55 AM    |     |
+| subject: |     | I'm joining OpenAI          |     |
 
 I am happy to finally share that I am joining OpenAI as a Member of Technical Staff (Principal Software Engineer), focusing on Machine Learning Infrastructure for ChatGPT.
 

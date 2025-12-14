@@ -1,6 +1,12 @@
-# LinkedIn Apple Announcement
+# I'm leaving Apple
 
-`August 8, 2025`
+|          |     |                             |     |
+| -------- | --- | --------------------------- | --- |
+| from:    |     | Andrei Cioara @andreicioara |     |
+| to:      |     | LinkedIn Audience           |     |
+| date:    |     | August 8, 2025, 7:39 AM     |     |
+| subject: |     | I'm leaving Apple           |     |
+
 
 After careful consideration and lots of deliberation, I made the difficult decision to leave Apple after 6 amazing years spent at the company.
 

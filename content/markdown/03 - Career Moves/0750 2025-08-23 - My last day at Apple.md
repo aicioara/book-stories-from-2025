@@ -91,6 +91,7 @@ I then realized that I haven't finished the Workday assignments for OpenAI, so I
 
 My sleep tracking tells me that I spent 6 hr and 3 min in bed that night, of which 5:45 were slept, from 00:13 to 06:00.
 
+
 ![](attachments/Sleep.jpeg)
 
 Being at Apple was an absolute pleasure, but now on to greener pastures.

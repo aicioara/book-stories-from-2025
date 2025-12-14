@@ -1,6 +1,12 @@
 # OpenAI Intro Email
 
-`August 1, 2025`
+|          |     |                               |     |
+| -------- | --- | ----------------------------- | --- |
+| from:    |     | Andrei Cioara                 |     |
+| to:      |     | OpenAI Slack: #hello-i-am-new |     |
+| date:    |     | August 1, 2025, 9:03 AM       |     |
+| subject: |     | OpenAI team intro             |     |
+
 
 👋 Hello everyone. My name is Andrei and I just joined the Search Team last week.
 

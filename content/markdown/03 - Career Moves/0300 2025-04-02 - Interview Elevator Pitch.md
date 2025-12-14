@@ -1,6 +1,11 @@
 # Interview Elevator Pitch
 
-`April 2, 2025`
+|          |     |                                        |     |
+| -------- | --- | -------------------------------------- | --- |
+| from:    |     | Andrei Cioara                          |     |
+| to:      |     | OpenAI Interviewer                     |     |
+| date:    |     | August 2, 2025, 7:30 PM                |     |
+| subject: |     | Let me tell you why you should hire me |     |
 
 Hello. My name is Andrei and I am a Software Engineer with 12 years of industry experience. I started my career in tech, working for the likes of Palantir and Microsoft, then ventured a bit into High Frequency Trading with Jump Trading and Citadel Securities, then I co-founded a start-up, got to speak with YCombinator, who did not invest in us, for good reason. After that, I was pretty successful doing freelancing for a while. Eventually, I joined Apple, where I've been for the past 6 years.
 

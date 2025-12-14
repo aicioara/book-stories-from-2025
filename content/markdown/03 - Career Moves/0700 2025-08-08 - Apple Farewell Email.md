@@ -3,7 +3,7 @@
 |          |     |                                         |     |
 | -------- | --- | --------------------------------------- | --- |
 | from:    |     | Andrei Cioara <andrei.cioara@apple.com> |     |
-| to:      |     | cioara.andrei+sanitized@gmail.com       |     |
+| to:      |     | team+sanitized@groups.apple.com         |     |
 | date:    |     | Jul 28, 2025, 4:39 PM                   |     |
 | subject: |     | Farewell                                |     |
 

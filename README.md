@@ -10,6 +10,12 @@ For full bleed images, you need
 ![](cover.png){width=154.36mm height=216.36mm}
 ```
 
+To fix rotation that lualatex cannot do.
+
+```bash
+magick input.jpg -auto-orient output.jpg
+```
+
 ## High Level TOC
 
 - Stories from 2025

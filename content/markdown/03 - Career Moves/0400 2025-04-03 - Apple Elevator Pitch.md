@@ -1,6 +1,13 @@
 # Apple Introduction Email
 
-`April 3, 2025`
+
+|          |     |                         |     |
+| -------- | --- | ----------------------- | --- |
+| from:    |     | Andrei Cioara           |     |
+| to:      |     | Apple Slack: #team-chat |     |
+| date:    |     | April 3, 2025, 11:30 AM |     |
+| subject: |     | Apple team change intro |     |
+
 
 Hello everyone! My name is Andrei and I am excited to transfer from the Siri & Information Intelligence (SII) org and join the Pegasus Ads & Recommendations Team in MLPT.
 
