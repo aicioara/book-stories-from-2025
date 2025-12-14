@@ -82,13 +82,13 @@ Doing this while driving, for me, is a totally new capability that I never thoug
 
 ## 8. Proofreading
 
-I am very picky about the way I write and get turned away by content that looks like it was written by AI. But I do use AI in all of my writing as a proof reader and here is how.
-
-Here are a few truths:
+Here are a few facts:
 - Content written by AI is offputting for humans
 - When writing, it is best to write the content and correct mistakes at the end, instead of obsessing over a paragraph
 - Proofreading takes time
 - Proofreading is harder than content writing
+
+I am very picky about the way I write and get turned away by content that looks like it was written by AI. But I do use AI in all of my writing as a proof reader and here is how.
 
 What I want is to give my text to a human and get back the same concepts with the same tone, but with mistakes ironed out.
 
@@ -100,8 +100,7 @@ I reject about half of the suggestions, but I found that this gives me the best 
 
 Very often, I need an image. Most recently, I needed an avatar for my Github OpenAI account. I did not want to an image of me, but I wanted it to look like me. I gave the AI one of my pictures and asked it to generate a cartoon out of it in "Studio Ghibli style". Results never cease to amaze me.
 
-![](attachments/AvatarOAI.jpeg)
-*Avatar from https://github.com/acioara-oai.*
+![Avatar from https://github.com/acioara-oai](attachments/AvatarOAI.jpeg)
 
 ## 10. Translating books
 

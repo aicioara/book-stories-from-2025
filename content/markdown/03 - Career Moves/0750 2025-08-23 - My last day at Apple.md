@@ -6,9 +6,7 @@ This is a prequel to \[My first day at OpenAI\].
 
 ---
 
-I am writing this out of order, but I already talked about my first day at OpenAI, so it is only fair that I also talk about my last day at Apple, while it is still fresh in my mind.
-
-Since I started at OpenAI on a Tuesday, I decided that my last day at Apple will actually be a Monday. This gave me an additional $930.85 gross, and who does not like almost $1,000. It's not like I wanted to do something with that Monday and it just padded my $3,000 visa expense that started all of this.
+Since I started at OpenAI on a Tuesday, I decided that my last day at Apple will actually be a Monday. This gave me an additional day of salary, and who does not like that? It's not like I wanted to do something with that Monday and it just padded my $3,000 visa expense that started all of this.
 
 7 days ago, on the Monday prior, JG gave me a counter offer. However, by the end of the week, I still haven't seen or heard some official numbers. On the Friday prior, I pinged Michael Xu and he told me that it is just sitting on Deirdre O'Brian's desk and should be signed any time soon. He asked me if I could delay my final day with Apple and I told him that if I do not receive that offer, I will just assume it is never coming and my final day with Apple will be Monday.
 
@@ -71,18 +69,11 @@ I then packed all of my stuff in my car and forwarded a couple of "in case of se
 
 I really wanted to take a picture with all of my devices lined up on a table, so I did that. Helen told me to put them all in a locker and that she will take care of it, so I ended up doing that.
 
-![Dropping off all of my Apple work devices.](attachments/IMG_0897.jpg)
+![Dropping off all of my Apple work devices](attachments/IMG_0897.jpg)
 
 
 
 The thing that I was still deciding on was what to keep. I had too much stuff for Apple to track or care. I wanted to keep the old intel-based laptop because I loved it, travelled with it everywhere and because Apple would just throw it away. However, that was tracked, so I decided against it.
-
-In the end, what I kept was:
-- My first Apple laptop. The one from Romania with a broken 'e' key. That was not tracked anymore because I was supposed to give it back in 2020 and people did not want to see me due to the pandemic
-- One external monitor that was not tracked. It was the one I received on my first day and never removed from the case
-- The small iPhone SE 3. Amazing phone and it was rooted, so I could fake my GPS location and check if I still had access to emails
-- Keyboard, trackpad and peripherals that I am now using at OpenAI
-- The badge. I did not really see a reason to return it.
 
 One of the things that I forgot to do was create an account on teamblind.com using my Apple Email. Oh well.
 

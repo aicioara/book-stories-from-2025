@@ -456,7 +456,7 @@ I must have said this a couple of times already, but I strongly believe that the
 
 The easiest way to get this right is by starting the routine at 9 PM, despite aiming for a 10 PM bedtime. The most important thing is to get the chores out of the way. That is brushing my teeth and, if it was a sweaty day, have a shower. It is important to do these first because they are mandatory and take time. They also put me in the right headspace for sleep. Brushing my teeth, in particular takes 5-10 minutes with brushing, flossing and polishing with a second toothpaste and electrical toothbrush.
 
-At 9 I also turn off all but one light in the room, so that it gets darker, generally a lamp that is not directly aimed at my face. That lamp produces enough light that I do not need to turn on the light in the bathroom.
+At 9 I also turn off all but one light in the room, generally a lamp that is not directly aimed at my face. That lamp produces enough light that I do not need to turn on the light in the bathroom.
 
 Between finishing the chores and 9:30, I use my laptop to finish any remaining tasks. That can be paying my utilities or rent, reading some low-stakes emails, responding to messages on Facebook or posting the occasional picture. For some reason, ticking off TODO items gets me very cozy, which is helpful with sleep.
 

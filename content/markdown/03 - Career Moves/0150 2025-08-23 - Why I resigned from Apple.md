@@ -34,9 +34,7 @@ So after those initial 3 months, I did go back to Romania for a few weeks, but t
 
 In March 2020, the pandemic hit, and the economic situation was uncertain. So I stayed. It also helped that I had Cosmin Rusu and Sorin Mircea, two friends from Romania, to keep me company while in the Bay Area.
 
-In December 2020, I flew home for Christmas, again considering to quit my job at Apple. And this time I did not leave Romania anymore. One thing I discovered was that I had root access on my laptop. Apple, unlike other software companies, did not add spyware on our laptops and also gave us super-root access for development. That meant that I could tell the laptop to report me back at home in USA and Apple would not know.
-
-This started my Romania period when I did not consider leaving Apple anymore. I was already established, I did not have a ton of work to do and the money was good compared to the standard of living in Romania. It gave me the headspace to focus on buying and rehabing some properties, meeting and marrying Laura and spending time with family.
+In December 2020, I flew home for Christmas, again considering to quit my job at Apple. However, this time I did not leave Romania anymore. This started my Romania period when I did not consider leaving Apple anymore. I was already established, I did not have a ton of work to do and the money was good compared to the standard of living in Romania. It gave me the headspace to focus on buying and rehabbing some properties, meeting and marrying Laura and spending time with family.
 
 In 2023, Apple started introducing a mandatory return-to-office (RTO) policy, which they called a "pilot", which gave us a scare. We came to the USA to assess the situation and I started looking around at other companies. In the end, I discovered that I can get a medical exception for the office, so I got a medical letter and a few pictures for my existing dermatities. The dry air in the office was making it worse and I was able to get an exception from coming into the office until late-2024.
 
@@ -67,7 +65,7 @@ Apple did not want to pay for premium processing. In their view I did not person
 
 I kept stressing out my manager about convincing Apple to pay for this. This additional stress and the fact that his manager just left for a different org added way too much stress on his plate and, 3 days later, his latent illness returned and incapacitated him, prompting an earliy disability retirement. So I was out of manager too.
 
-I ended up paying the $3,000 myself, but at that time, I promised myself that I will make back that money back, many times over. It was the straw that broke the camel's back and one of the events that prompted me to start applying to other jobs the next day. Having Dima push for OpenAI just aligned the stars.
+I ended up paying the $3,000 myself, but at that time, I promised myself that I will make back that money back, many times over. It was the straw that broke the camel's back and one of the events that prompted me to start applying to other jobs the next day.
 
 ## The final two weeks
 

@@ -1,7 +1,5 @@
 # How I announced my resignation from Apple
 
-⛔️⚠️ Some parts of this text are semi-private. Particularly around comp multipliers.⚠️⛔️
-
 ## The timeline constraints
 
 When I accepted the offer with OpenAI, on May 15, I was still at Apple and I had two primary constraints:
@@ -27,7 +25,7 @@ I had a feeling that the stock would go up in August, so it was very important t
 
 I think it is important to actually go into my reasoning to explain the math. The compensation in a tech company has three components: salary, stock and bonus. Salary is the straight-forward payment for the services and bonus is a one-time monetary gift. Stock is the important part because it is the reason working in tech is so lucrative, the price fluctuates with the company valuation. That means, if you join when the company stock is worth $100 and the company is later worth $200, you doubled the stock component of the compensation. If you however join when the company is worth $150 and is later worth $200, you now only increased the compensation by 33%. So joining at a lower number is critical. Also, in a startup, that number only changes once a year. So it would be a huge loss for a single week of delay.
 
-In the end, it turned out that the stock price did not go up in August, so joining in August would have had the same effect as joining in July. However, not known to me, was a special bonus for everyone who joined in July, so in the end, it was much better to join on July 29.
+In the end, it turned out that the stock price did not go up in August, so joining in August would have had the same effect as joining in July.
 
 Anyway, coming back from this detour, if I wanted to join OpenAI on July 29, then my last day with Apple had to be July 28, which meant that I had to submit my resignation around July 14, while that my flight to the US was July 20.
 
@@ -58,7 +56,7 @@ By that time, I created a narrative around three main reasons I am leaving Apple
 
 Michael wanted to know if having Apple offer more money would convince me to stay. I told him that if Apple offers a "competitive" counter offer, I would of course consider, because, after all, I really liked Apple. If, however, Apple would not be able to even match my OpenAI offer from a comp standpoint, then I would not consider it. I also told him that the most important thing for me is that we stay in good terms, so if my rejection of an eventual retention offer would jeopardise our relationship, then I value my relationship with Michael way more than the counteroffer.
 
-Michael responded that it does not hurt asking for a counter offer, but he doubts that Apple will be able to match OpenAI, who more than doubled my total compensation at Apple. This all happened on Wednesday.
+Michael responded that it does not hurt asking for a counter offer, but he doubts that Apple will be able to match OpenAI. This all happened on Wednesday.
 
 On Thursday, Michael got back to me, thanked me for my services and told me that, as expected, Apple would not have the means to match the compensation from OpenAI. He wished me all the best in my new job and asked me to ramp my team up on my existing tasks, so that there will be a smooth transition. I thanked him as well and told him that my team is already almost up to speed and I would spend the following week with them to make sure they have everything they need to be successful. By this time I was still in Romania.
 
@@ -109,7 +107,7 @@ On Friday, I also went to the office, and in doing so, I realized that the entir
 
 I stopped by and talked to Frank when I found him free. Frank told me that I am super lucky to get a counter offer from Apple. That would never have happened, but the most recent AI talent poaching spree from OpenAI, xAI and Meta triggered an alarm within Apple and I was the happy beneficiary of that. Indeed, if I were to only use this offer to increase my salary at Apple, without actually considering leaving the company, this would have been a golden opportunity, but by this time, I was already considering leaving.
 
-Frank asked me what I thought of the retention offer and I shared with him that I still did not know the offer or the numbers. He seemed surprised at first, but then understood and he shared a number with me, verbally. The number would mean that Apple would effectively double my salary. It would, however, not match my OpenAI total compensation, which was 2.5x my current salary.
+Frank asked me what I thought of the retention offer and I shared with him that I still did not know the offer or the numbers. He seemed surprised at first, but then he understood and he shared a number with me, verbally. The number would mean an increase in my Apple effective salary. It would, however, not match my OpenAI total compensation.
 
 I was disappointed. After all of this craziness, I would have expected to, at the very least, match the competing offer, or even slightly increase it. At least that is what Michael Xu told me on Monday, just before meeting John.
 
@@ -117,6 +115,4 @@ After running the numbers, I made up my mind that if the offer came back to be t
 
 Saturday and Sunday passed without any more words and on Monday morning, I received the text from Michael that he finally has an approved offer.
 
-I wrote all the details about July 28, which was my final day at Apple in \[My last day at Apple\]. The short version is that the number that Apple gave me matched the one that Frank Chu shared, so by this time and for this number I already made up my mind. I told Michael that I am not taking it, sent an email to my entire team announcing my resignation and submitted the official resignation letter to the system.
 
-The entire story is now spread across a couple of articles and maybe I can put them together at some point. For now, this is the story of how I resigned from Apple.

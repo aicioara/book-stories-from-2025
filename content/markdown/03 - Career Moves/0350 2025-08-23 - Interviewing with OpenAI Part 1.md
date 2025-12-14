@@ -8,8 +8,8 @@
 
 #### Coding
 
-![](attachments/Screen%20Shot%202025-08-23%20at%2008.28.38.png)
-![](attachments/Screen%20Shot%202025-08-23%20at%2008.31.46.png)
+![My LeetCode profile and ranking](attachments/Screen%20Shot%202025-08-23%20at%2008.28.38.png)
+![Placing 130 out of 21,647 contestants at one of LeetCode competitions](attachments/Screen%20Shot%202025-08-23%20at%2008.31.46.png)
 
 - The daily problem on Leetcode, every day, no skip, no pre-reading solutions
 	- This got me into the right headspace
