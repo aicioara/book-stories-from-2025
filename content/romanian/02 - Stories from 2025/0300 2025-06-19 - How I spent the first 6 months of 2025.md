@@ -26,7 +26,7 @@ Apartamentul nu era pregătit pentru noi. Faptul că ne-am mutat la doar 2 zile 
 
 Am depus o plângere, dar nu am avut timp să așteptăm rezolvarea. În ciuda tuturor nebuniilor, tot voiam să simțim Crăciunul care se apropia, așa că am mers și am cumpărat un brad de Crăciun cât timp încă aveam camionul U-Haul. Apoi am luat niște lumini și decorațiuni și am petrecut week-end-ul despachetând, decorând pentru Crăciun și, ironic, spălând mașina de spălat.
 
-![Mâncând un corn dog la o masă oarecare, fără să fim complet despachetați](attachments/IMG_9110.jpg)
+![Mâncând un corn dog ininte de despachetare](attachments/IMG_9110.jpg)
 
 Crăciunul a trecut, apoi a trecut și Anul Nou și era deja 2025. Sărbătorile au fost drăguțe și toate cele, dar nu s-au simțit ca niște sărbători adevărate și, cu toate celelalte probleme, s-au distilat într-un sentiment de dor de casă.
 
