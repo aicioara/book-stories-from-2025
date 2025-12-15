@@ -14,6 +14,7 @@ python src/generate_input_files.py
 
 today=$(date +%Y-%m-%d)
 
+# English
 docker run -it --rm \
     -v "$(pwd)/content:/content" \
     -v "$(pwd)/output:/output" \
@@ -24,6 +25,20 @@ docker run -it --rm \
     --defaults=input_files_english.yaml \
     --include-in-header=header.tex \
     -o "/output/StoriesFrom2025 - Draft $today - Blank.pdf"
+
+# exit 0
+
+# Romanian
+docker run -it --rm \
+    -v "$(pwd)/content:/content" \
+    -v "$(pwd)/output:/output" \
+    -v "$(pwd)/src/pandoc:/pandoc" \
+    -v "/Users/aicioara/diary/diary/diary/:/Users/aicioara/diary/diary/diary/:ro" \
+    pandoc-aicioara:3.7.0.2 \
+    --defaults=settings.yaml \
+    --defaults=input_files_romanian.yaml \
+    --include-in-header=header.tex \
+    -o "/output/StoriesFrom2025 - Romanian $today - Blank.pdf"
 
 exit 0
 

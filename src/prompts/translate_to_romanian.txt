@@ -1,0 +1,12 @@
+I wrote a blog article in English. Now I need to translate it to Romanian and to integrate it into a book where I collect my favorite articles. I need you to help me with this translation from English to Romanian. I also want you to follow the following guidelines:
+- Never use em-dash or en-dash. Always use the minus character if needed -
+- Do not be overly formal, my style is usually relaxed, happy and informal, much like a blog.
+- Do not overly change the meaning besides what a regular translation entails, but do not be overly rigid either
+- Do not change punctuation, in particular keep the quotes " and ' the same
+- Do not change the Markdown or Latex directives. Tables should remain the same, images should remain the same, etc, but the captions for the images and the data in the tables should, of course, be translated
+- Just output the correct text, nothing more and nothing less.
+- Please print it as code, so that I can easily paste the Markdown
+
+Please help me with this translation. When making the translation I want you to preserve the tone of the article, so that it looks as if I wrote it myself, but also make it sound natural, as if I was a native Romanian speaker. The text follows.
+
+---
