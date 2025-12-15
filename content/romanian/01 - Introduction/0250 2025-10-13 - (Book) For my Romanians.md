@@ -1,25 +1,25 @@
-# Mesaj Pentru Cititorii mei Romani
+# Mesaj Pentru Cititorii mei Români
 
-Ceea ce urmeaza sa cititi este un experiment.
+Ceea ce urmează să citiți este un experiment.
 
-Am plecat din Romania acum mai bine de 13 ani. De 13 ani incoace nu a mai fost nevoie deloc sa scriu in limba romana. Toate materialele tehnice pe care le pregatesc pentru munca sunt in limba engleza, toate email-urile pe care le trimit sunt in limba engleza si toata pregatirea mea lingvistica este acum in limba engleza. Din acest motiv, pentru scris (si doar pentru scris), imi este mult mai natural sa scriu direct in limba engleza.
+Am plecat din România acum mai bine de 13 ani. De 13 ani încoace nu a mai fost nevoie deloc să scriu în limba română. Toate materialele tehnice pe care le pregătesc pentru muncă sunt în limba engleză, toate email-urile pe care le trimit sunt în limba engleză și toată pregătirea mea lingvistică este acum în limba engleză. Din acest motiv, pentru scris (și doar pentru scris), îmi este mult mai natural să scriu direct în limba engleză.
 
-De foarte multa vreme imi doresc sa traduc o parte din articolele pe care le scriu din limba engleza in limba romana ca sa impartasesc aceste idei si apropiatilor care nu vorbesc limba engleza. Cu toate astea, tradusul cere timp, iar timp este ceva ce nu am.
+De foarte multă vreme îmi doresc să traduc o parte din articolele pe care le scriu din limba engleză în limba română ca să împărtășesc aceste idei și apropiaților care nu vorbesc limba engleză. Cu toate astea, tradusul cere timp, iar timp este ceva ce nu am.
 
-Inca de mic am fost convins ca a invata o limba straina este un efort nenecesar. Am asteptat cu nerabdare niste calculatoare mai inteligente care sa faca aceste traduceri pentru noi, iar acest moment a venit odata cu valul de Inteligenta Artificiala inceput in finele anului 2022.
+Încă de mic am fost convins că a învăța o limbă străină este un efort nenecesar. Am așteptat cu nerăbdare niște calculatoare mai inteligente care să facă aceste traduceri pentru noi, iar acest moment a venit odată cu valul de Inteligență Artificială început în finele anului 2022.
 
-ChatGPT a atins performante noi, iar aceasta carte este tradusa aproape in intregime de ChatGPT 5.2. Doresc sa clarific ca versiunea in limba engleza a acestei carti este scrisa in totalitate de mine, fara ajutor extern.
+ChatGPT a atins performanțe noi, iar această carte este tradusă aproape în întregime de ChatGPT 5.2. Doresc să clarific că versiunea în limba engleză a acestei cărți este scrisă în totalitate de mine, fără ajutor extern.
 
-Sa traduc personal aproape 300 de pagini din limba engleza in limba romana mi-ar fi luat cateva zeci sau chiar cateva sute de ore, adica aproximativ 3-6 luni de timp liber. ChatGPT tocmai a terminat toata traducerea cartii in jumatate de ora, iar mie mi-a mai luat inca o ora sa curat putin rezultatul si sa il rearanjez in capitole. Sunt fericit si in acelasi timp socat si speriat de noile eficiente pe care ni le ofera inteligenta artificiala.
+Să traduc personal aproape 300 de pagini din limba engleză în limba română mi-ar fi luat câteva zeci sau chiar câteva sute de ore, adică aproximativ 3-6 luni de timp liber. ChatGPT tocmai a terminat toată traducerea cărții în jumătate de oră, iar mie mi-a mai luat încă o oră să curăț puțin rezultatul și să îl rearanjez în capitole. Sunt fericit și în același timp șocat și speriat de noile eficiențe pe care ni le oferă inteligența artificială.
 
-Mai am de facut cateva precizari.
+Mai am de făcut câteva precizări.
 
-Prima precizare este ca rezultatul final nu este perfect. Multe cuvinte sunt in ceea ce se numeste colocvial "romgleza", un mix intre romana si engleza, foarte popular la generatiile tinere, insa foarte departe de felul in care vorbesc si scriu eu. Daca ar fi fost sa fac personal traducerea cartii, multe expresii ar fi aratat cu totul altfel. Va rog sa nu fiti foarte duri cu unele exprimari pe care le veti gasii in urmatoarele pagini, face si inteligenta artificiala ce poate.
+Prima precizare este că rezultatul final nu este perfect. Multe cuvinte sunt în ceea ce se numește colocvial "romgleză", un mix între română și engleză, foarte popular la generațiile tinere, însă foarte departe de felul în care vorbesc și scriu eu. Dacă ar fi fost să fac personal traducerea cărții, multe expresii ar fi arătat cu totul altfel. Vă rog să nu fiți foarte duri cu unele exprimări pe care le veți găsii în următoarele pagini, face și inteligența artificială ce poate.
 
-A doua precizare este ca, la o prima vedere, versiunea in limba romana este foarte apropiata de stilul meu de scris in limba engleza, un stil pe care totusi nu il am in limba romana.
+A doua precizare este că, la o primă vedere, versiunea în limba română este foarte apropiată de stilul meu de scris în limba engleză, un stil pe care totuși nu îl am în limba română.
 
-A treia precizare este ca, din toata cartea, aceasta introducere si articolul despre Scoala Vasile Goldis sunt singurele sectiuni care au fost scrise original direct in limba romana si sunt singurele care sunt in stilul meu.
+A treia precizare este că, din toată cartea, această introducere și articolul despre Școala Vasile Goldiș sunt singurele secțiuni care au fost scrise original direct în limba română și sunt singurele care sunt în stilul meu.
 
-Ultima precizare este ca acest experiment este unul intentionat. Prin aceasta carte, doresc sa arat cititorilor unde a ajuns inteligenta artificiala in Decembrie 2025: o carte de 300 de pagini tradusa in mai putin de o ora la o calitate remarcabila.
+Ultima precizare este că acest experiment este unul intenționat. Prin această carte, doresc să arat cititorilor unde a ajuns inteligența artificială în Decembrie 2025: o carte de 300 de pagini tradusă în mai puțin de o oră la o calitate remarcabilă.
 
-Va multumesc ca participati la acest experiment si va urez lectura placuta!
+Vă mulțumesc că participați la acest experiment și vă urez lectură plăcută!
