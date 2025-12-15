@@ -8,3 +8,7 @@
 \textit{The strongest supporter for every crazy idea that I have}
 
 \end{center}
+
+\newpage
+\mbox{}
+\newpage

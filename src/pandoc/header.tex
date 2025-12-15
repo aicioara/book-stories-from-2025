@@ -25,11 +25,11 @@
 \renewcommand{\headrulewidth}{0pt}
 
 % Add two empty pages for dedications
-\AtBeginDocument{%
-    \thispagestyle{empty}\null\newpage
-    \thispagestyle{empty}\null\newpage
-    \setcounter{page}{1}
-}
+% \AtBeginDocument{%
+%     \thispagestyle{empty}\null\newpage
+%     \thispagestyle{empty}\null\newpage
+%     \setcounter{page}{1}
+% }
 
 % Title
 \usepackage{titling}
@@ -64,9 +64,7 @@
 % Block Quotes
 \usepackage{xcolor}
 \usepackage{framed}
-
 \definecolor{quoteblue}{RGB}{52,109,187}
-
 \renewenvironment{quote}
   {%
     \vspace{1.0\baselineskip} % space before
@@ -80,3 +78,17 @@
     \endMakeFramed
     \vspace{0.5\baselineskip} % space after
   }
+
+% TOC on the right page (1 blank page before)
+\let\oldtableofcontents\tableofcontents
+\renewcommand{\tableofcontents}{
+  \thispagestyle{empty}\null\newpage % Blank page for dedication
+  \thispagestyle{empty}
+    \vspace*{2cm}
+    \begin{center}
+      {\Large $Stories\ from\ 2025$}
+    \end{center}
+  \newpage % Back of blank page
+  \thispagestyle{empty}\null\newpage % Start TOC on the right
+  \oldtableofcontents
+}
