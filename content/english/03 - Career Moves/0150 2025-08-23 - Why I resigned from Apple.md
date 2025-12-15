@@ -26,6 +26,8 @@ I went online to book my flight. A return flight. Due to a quirk of how dynamic 
 
 I landed in the US on July 1st, on the exact deadline after which Apple would have withdrawn the offer.
 
+![The famous rainbow sculpture at Apple Park](attachments/IMG_2929.jpg)
+
 One of the things that I remember from that period was that I did not care much about the job. I was going to leave it soon anyway, so it was just a necessary step to activate my visa and I had 3 months.
 
 During those 3 months I met my director, the person who went through (many) hoops to get me to the USA. I started feeling a sense of guilt. He helped me get here, but I did not give anything back in return. I felt compelled to show my worth first and then go back to Romania. I also fell in love with the place.
@@ -37,6 +39,8 @@ In March 2020, the pandemic hit, and the economic situation was uncertain. So I 
 In December 2020, I flew home for Christmas, again considering to quit my job at Apple. However, this time I did not leave Romania anymore. This started my Romania period when I did not consider leaving Apple anymore. I was already established, I did not have a ton of work to do and the money was good compared to the standard of living in Romania. It gave me the headspace to focus on buying and rehabbing some properties, meeting and marrying Laura and spending time with family.
 
 In 2023, Apple started introducing a mandatory return-to-office (RTO) policy, which they called a "pilot", which gave us a scare. We came to the USA to assess the situation and I started looking around at other companies. In the end, I discovered that I can get a medical exception for the office, so I got a medical letter and a few pictures for my existing dermatities. The dry air in the office was making it worse and I was able to get an exception from coming into the office until late-2024.
+
+![Receiving my 5-year work anniversary plaque in 2024](attachments/IMG_9214.jpg)
 
 By 2025, things were going really well. I managed to make a reputation for myself and, in a crazy political game (a story for another time), I changed organizations and was now reporting to Frank Chu, our director, directly. I got some really exciting projects with some very well connected people and a new chapter at Apple was about to unfold.
 

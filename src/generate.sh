@@ -26,7 +26,7 @@ docker run -it --rm \
     --include-in-header=header.tex \
     -o "/output/StoriesFrom2025 - Draft $today - Blank.pdf"
 
-# exit 0
+exit 0
 
 # Romanian
 docker run -it --rm \

@@ -22,11 +22,15 @@ If this second trip to Romania, only 2 weeks after we spent 1 entire month there
 
 For Laura's birthday, we wanted to have a traditional Romanian holiday (in Greece) and we booked an all inclusive resort to just chill on the beach, sleep and read. It was very relaxing and the food was absolutely delicious. We went to Crete, in Heraklion and our hope was to see the beautiful beaches that the island had to offer. We ended up only seeing two of them because there was too much driving and we prioritized relaxing ahead of a very busy period that I will describe soon.
 
+![Chilling in Crete](attachments/IMG_3476.jpg)
+
 Upon returning from Greece, I went straight to Brasov for the 24h race. This was the second of the 3 races in the championship and it was a Le Mans style karting competition. Race would start at 12 noon on Saturday and end at 12 noon on Sunday. Teams had to have a minimum of three people. There were 3.5 of us because Lucian Itu had to depart for his holiday at midnight, so myself, Ionut Banica and Cosmin Pop had to share the drive for the last 12 hours of the race, while Lucian helped on the first 12 hours.
 
 If I remember correctly, Cosmin did the 6 min qualifying and Ionut did the race start, then we settled into a rhythm. Because teams can do pitstops at any time and each pitstop adds about 4 minutes to your time, once pitstops begin, it is very hard to estimate which position you are running in, but we were oscillating between 1st and 4th.
 
 In the afternoon, I got to do my first stint. One thing to know is that the karts are all rentals and we cannot change anything about them: engine, tires, chassis are all provided to us, we just need to drive them. However, karts are not all equal, in fact there are quite large difference between them. One strategy on the race is to follow when a good kart came into pits and got changed (as it is mandatory), then coordinate a pit of your team to grab the better kart. I followed karts for quite a while and when my time came to drive, I picked the best kart on the track and I drove it non-stop for 1 hour and 45 minutes. It was the best time of my karting career.
+
+![Ready for the 24h karting race](attachments/518352888_1167647725401977_388572363635280008_n.jpg)
 
 Since I was the jet-lagged one, it was decided that I would sleep during the day and join them back around midnight, then drive for the team the entire night. I booked an accommodation 5 minutes away from the track and, after watching one more stint, I headed there to sleep.
 
@@ -69,9 +73,13 @@ In the end, I decided with Laura that we'd take option 1 and, by chance, it turn
 
 The last week of Romania was hectic. I celebrated my new job with my parents, then spent a few days in Cluj, attended Alex's wedding, which was really nice, then flew to the USA and had 1 hectic week handing off all of my duties at Apple, then starting my new job at OpenAI.
 
+![My "official" OpenAI picture, created by ChatGPT](attachments/Front%201.png)
+
 Since joining OpenAI, life changed in a couple of ways. Due to the increased workload, I had to be more intentional about how I spent my time. The morning and evening commute wasted 2 hours of my day and the traffic dictated my early departure and late arrivals home. I would leave home at 6 AM in the morning to beat traffic and return at 8 PM in the evening when traffic dried down.
 
 Work was incredibly rewarding and very satisfying. Language wise, I changed from Go to Python, which was fantastic. I never liked Go, whereas Python was always my best and favorite language. I dropped the compile time from 10 minutes to virtually nothing and some days I would code for 11 hours straight. Responsibility wise, I went from leading a solo project that no one really cared about to leading a 5-person project that two major releases depended on. Socially, I went from an empty office to a vibrant community of passionate developers.
+
+![Discovering San Francisco](attachments/IMG_4378.jpg)
 
 The most important thing that happened in this transition is that it broke my Instagram and YouTube addiction. No matter what scientists say, these apps are just as addictive as any drug. It is very hard to stop scrolling and I would catch myself opening the apps without even thinking and without even looking at the screen. The brain just knew exactly where on the screen to swipe, despite my attempts to introduce friction and I always scrolled for 10 minutes every time I had to wait for the code to compile.
 

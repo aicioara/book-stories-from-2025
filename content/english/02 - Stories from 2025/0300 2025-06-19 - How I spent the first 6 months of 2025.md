@@ -16,6 +16,9 @@ Most of my large belongings were in a storage location close to the San Jose Air
 
 We told the mover to meet us at the storage location to help us load the truck. He was 1 hour late. I asked him what happened and he said that the bus he took was late and he did not have WiFi on the bus to give us a heads up. This surprised me because in California no one really takes public transport. If you are from Europe and you read this, it may sound shocking, but here, especially in the suburbs, everyone owns a car so, due to lack of demand and due to economies of scale, the public transport is underfunded, routes are rare and poorly connected, so it's normal to spend 2 hours on a bus ride that would take 20 minutes in a car.
 
+![Waiting for Andrew to load the U-Haul truck](attachments/IMG_9096.jpg)
+
+
 Then it hit me. Andrew, the guy I hired, was homeless. He did not own a car and he did not have money for a phone plan, so he relied on public WiFi networks to communicate. He joined us on the ride from the storage to my home and we talked for a bit. He was very sharp and very smart, he knew a lot about European geography and history and knew a lot more about Romania than many people back home. More importantly, he was very kind and optimistic.
 
 It is very hard for me to find the words to describe the encounter, which also happened to be was the first of its kind. The overwhelming sentiment that I feel was empathy. I felt sorry that life was so unfair with a person so kind and optimistic. During our interaction, it felt rude for me to ask him any deep questions, so I did not. But I was curious. I wanted to know where he came from and where was he right now, how did he keep his optimism in the face of bad fate, and what would he change about his past if he could. I wanted to know him and wanted to know his story. But, in the moment, with the pressure of having to move, I did not do that. Instead, we worked together elbow-to-elbow, carrying a heavy bed up the stairs, and the only thing I could help at the end was an extra tip and a sincere thank you for helping us complete our move.
@@ -24,9 +27,13 @@ The apartment was not ready for us. The fact that we moved in 2 days after seein
 
 We filed a complaint, but did not have time to wait for the resolution. Despite all this craziness, we still wanted to feel the upcoming Christmas, so we went and purchased a Christmas Tree while we still had the U-Haul moving truck. We then got some lights and decoration and spent the week-end unpacking, decorating for Christmas and, ironically, washing the washing machine.
 
+![Eating a corn dog on a random table while not fully unpacked](attachments/IMG_9110.jpg)
+
 Christmas passed, then the New Year passed and it was 2025. The holidays were nice and all but they did not feel like the proper celebrations and, with all the other issues, just distilled into us a sense of home sickness.
 
 For my birthday, we wanted to shake things up a bit and invited our closest friends for a private celebration at home. I purchased In-n-out Burger menus for everyone and spent the night playing board games in the neighborhood lounge (a common area in our apartment complex) until we were kicked out for overstaying our booking. I would have liked to move the party in our home, but we still owned no furniture other than one bed. no table and, importantly, no chairs, so we called it a night.
+
+![Turning 32 with balloons](attachments/IMG_0385.jpg)
 
 A few weeks passed and Laura started studying and practicing for her driver's license exam. As a resident, you are not allowed to use your European driver's license here, so she had to sit the theory exam and have the behind-the-wheel test once again after many years of driving.
 
@@ -40,9 +47,13 @@ I had a short honeymoon phase with the car where I had a chance to experience my
 
 Oh, I almost forgot, the car was indeed easier to drive and Laura got her American driver's license.
 
+![Parking my car near an identical copy of itself](attachments/IMG_8456.jpg)
+
 Around the end of January, we had a massive scare. Our visas were due for renewal in May 2025 (a formality where you just get a new piece of paper). We were told that the process would take 2-4 weeks, so we were not in a hurry. In January, one of the immigration laws changed and the processing time increased to 6 months, which would have put us both a couple of months after the visa renewal deadline. Due to a loophole, I could continue to stay and work here, but Laura would have been forced to resign and leave the country. I had a silly conversation with the lawyers where they could not comprehend why I was claiming that Laura's departure would mean that I am also leaving. In their mind, she leaves, I stay, and everyone lives happily ever after.
 
 I decided to make a gamble and spend a bunch of money on something called "Premium Processing" without any guarantee that this was going to actually work. In fact the lawyers advised that it would be just a waste of money. We were both super lucky and, despite all odds, we got our visas in February and a lot of stress off our shoulders. We both kept our jobs, despite some collateral damage (maybe a story for another time).
+
+![I bought myself an "emotional support" toy alpaca](attachments/IMG_7182.jpg)
 
 From here on, things got into a bit of a routine. We bought some IKEA furniture and spent a couple of days putting it together. We relaxed on a short holiday in Death Valley California. I spent a lot of time and energy on a house rehab project (that is worthy of its own article). We spent our free time hiking, playing board games and attending a show or two in San Francisco. We focused a bit more on work.
 
@@ -60,7 +71,7 @@ The routine came to an abrupt stop in the middle of May when we onboarded the fi
 
 Maybe surprisingly, weddings are some of my favorite events of the year. Despite their "business" component, they are, at their core, a celebration of love. They are also an opportunity for me to meet people that I haven't seen in years, catch up with old friends, and, more importantly, my only opportunity to wear a suit, something that I started enjoying more as I've gotten older. I congratulate the recent weds and thank them for inviting us (1 year in advance, which helped with planning). 2 out of 4 weddings for 2025 complete.
 
-#### 2. Renew our visa stamps.
+#### 2. Renew our visa stamps
 
 I won't go into much detail because paperwork is boring. My life as an immigrant means that every once in a while I need to go to Bucharest to interview at the US embassy and get a new stamp on my passport. Without it, I cannot continue traveling / working in the US. Boring, but super important stuff to get right. This time, it was super crazy because the US Embassy decided, for the first time in decades, to change their online system, migrate their entire database and, more consequentially, change the delivery partner from Fan Courier to Cargus the week before our interview.
 
@@ -68,13 +79,15 @@ Everything went smooth until we were supposed to receive our passports, which ne
 
 After he got the passports, I hopped on the car and drove 5.5 hours non-stop to Bucharest, chatted for 2 minute with Alex and drove 5.5 hours non-stop back home. Those were 11 hours of driving to and from Bucharest, but I got the passports, 3 days before our flight. Close call! Thanks again Alex, you're a beast!
 
-#### 3. Attend a 360 km endurance karting race.
+#### 3. Attend a 360 km endurance karting race
 
 We went for the medal. We got the medal! This is my second year entering the endurance karting masters championship in Prejmer (near Brasov). Last year, we got 4th place, in a brutal race during full wet conditions, with rain coming in and out twice. This year we were targeting a podium, no less. On the team were Lucian, Cosmin, Ionut and myself. We called ourselves HOTSHOTS.
 
 After a promising practice session, we got super unlucky with the kart and qualified P10 out of 18. Our secret weapon to recover from P10 was Ionut, whose crazy LeMans style starts usually gain 5 positions before turn 1. We were very hopeful, but our luck turned from bad to worst. At start, our kart stalled and subsequently the engine died. Ionut tried to restart it without much luck. The organizers tried to restart it - still nothing. Eventually, they brought in a new kart, moved the ballast over, moved the transponder over and restarted. By this time, 56 seconds have passed and the leader was almost completing their first lap. We were dead last, by a margin.
 
 Our luck started turning around and the new kart that we received was very good. So good in fact, that we were constantly the fastest on track. With all the clean air and with the leaders fighting for position, we managed to recover quickly and eventually finish P3, 1 lap down (or, more precisely, 2 min and 11 seconds) behind P1 and 3 laps away from P4. Moral of the story is to never give up.
+
+![3rd place in the endurance karting competition](attachments/IMG_9142.jpg)
 
 We'll be having the second race of the season July 12-13. This will be a 24 hour race. Same team. Same venue. Come say hi!
 

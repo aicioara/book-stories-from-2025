@@ -19,6 +19,8 @@ The entire situation was bitter-sweet. On one hand, she got her dream job. On th
 
 Just before going to California, I participated in 3 more karting competitions in Romania. One was my first-ever endurance race, in September 2024. I long wanted to participate in this race, but I missed the previous race because I was on holiday and I was missed the race before that because the weather forecast was rainy and I had no rain gear. With better equipment, I created the team and had Lucian Itu and Cosmin Pop join me for the race, a full-on rainy day that turned out to be miserable.
 
+![Karting on a rainy day at the 9-hour endurance race in Prejmer](attachments/03.jpg)
+
 I also participated in a competition at VMax Karting. They called it Double Boost and had it simultaneously at all locations in the country: Cluj, Brasov, Bucharest, etc, which meant that you can only join one. I am not very good with the track in Cluj and the best people in the country are in Bucharest, so I decided to go out of my way and participate in Brasov, where I had the 4th fastest track record and I absolutely loved the circuit.
 
 The unfortunate thing that happened was that Skillo, a racing coach from Bucharest, with an aggressive driving style, who works at VMax figured out a loophole that he could participate in the competition because, even though he worked at VMax, he worked at a different branch.
@@ -41,9 +43,13 @@ I saw the Taj Mahal in many pictures, but most of them were filled with people. 
 
 The tour guide more than delivered. He told us not to bring any backpack, so that we breeze through the security and to be there really early. We got there, but we were not first in line and were pretty disappointed. The tour guide told us that the folks in front of us were newbies and brought backpacks and he was right. After breezing through the security and literally running through the gardens to see the palace, we passed the main gate to a stunning view. The Taj Mahal all for ourselves. No person but us. We were the first ones to see the palace and took picture with no one else in the background. The guide delivered, his tip was handsome and I was satisfied.
 
+![The Taj Mahal](attachments/IMG_7614.jpg)
+
 We were pretty lucky not to get food poisoning in India, something that happens often, but at the same time, we followed the rule "peel it, boil it or throw it". Additionally, we also tried to stay away from sketchy stuff and some days we'd only eat toasted bread with boiled egg, but we were fine and greatly enjoyed our time there.
 
 Coming back to Zurich early December, we booked a Ski trip to Zermatt, so that I can continue practicing skiing. We got Sorin and Andra with us and it was one of the nicest holidays in a while, albeit a bit expensive.
+
+![The view from our balcony in Zermatt](attachments/IMG_6081.jpg)
 
 Returning from Zermatt, the plan was to spend the New Year Eve in Tunisia, as we found some really cheap tickets and we never visited the country before. Laura wanted to spend Christmas in Romania, but I was somewhat opposed to the idea because I was stressed with what happens after January: would we continue to live in two separate continents or would something change.
 

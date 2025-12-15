@@ -64,6 +64,8 @@ Friday was a day off because I had to attend Uca's wedding. Saturday was a chill
 
 (The good thing to note is that Apple did not fire me by this point, so I was able to enter the USA with the new visa and keep my job. My wife too 🙂)
 
+![My favorite picture at Apple Park](attachments/IMG_2725.jpg)
+
 Monday, July 21, one week to go. I finally open my laptop for the first time since talking to Michael on the prior Thursday and my inbox is drowned in messages. Michael tells me that he wants to talk to me because Apple actually wants not only to match, but actually exceed my offer from OpenAI. I also received an email from the assistant of John Gianandrea, our senior vice president, telling me that John wants to meet me personally on Monday.
 
 Good thing that I noticed on time. I responded to all requests and I was scheduled to have a meeting with John after lunch. Initially the call was supposed to be over video, but I realized that I never met John in person and he is quite an important figure, as well as a celebrity. I asked whether I could meet him in person and I was granted my wish, I would finally meet our Senior Vice President in person, and it was going to be just him and I for 30 uninterrupted minutes. I had no idea what he wanted to talk about, but I decided to sketch out a couple of questions.

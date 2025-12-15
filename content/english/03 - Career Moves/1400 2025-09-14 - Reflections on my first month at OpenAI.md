@@ -62,6 +62,8 @@ Personally, I am in the office around 7:30 AM and I leave office around 7:00 PM 
 
 My favorite perk about working at OpenAI is free food for breakfast, lunch and dinner. For some reason, in recent years, it has become tabu to say that you hope for free food at work, but in my opinion, having food that is readily available and free is the biggest perk on the planet.
 
+![Free breakfast at OpenAI](attachments/IMG_1024.jpg)
+
 There is something very subconscious and primal about our relationship with food and, to me, not having to think where I will get my next meal from, what I want to eat, and how do I prepare it, gives my brain a lot of extra capacity to think about more important work problems.
 
 Having food on site is also more efficient and promotes more informal lunch conversations with colleagues. It is win on all fronts.
