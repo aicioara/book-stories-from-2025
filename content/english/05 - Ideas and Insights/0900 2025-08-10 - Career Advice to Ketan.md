@@ -1,4 +1,4 @@
-# Career Advice for my former colleague
+# Career advice for my former colleague
 
 > [!NOTE]
 > Thank you Andrei, I'm currently ICT5 in MLPT/AIML, and was wondering if you have any advise to work towards ICT6 apart from our internal career framework, specifically around getting buy in from the stakeholders (couple of Directors, M3, ICT6, and VP).

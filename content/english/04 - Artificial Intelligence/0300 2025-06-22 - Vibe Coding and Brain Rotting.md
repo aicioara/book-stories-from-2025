@@ -1,4 +1,4 @@
-# Vibe Coding and Brain Rotting
+# Vibe coding and brain rotting
 
 Last week I shared my opinion about the future of Software Engineering as a career. This week, I want to continue on that thread and share some concerns about the future that we are creating for ourselves.
 

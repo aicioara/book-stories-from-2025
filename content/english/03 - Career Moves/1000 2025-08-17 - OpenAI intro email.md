@@ -1,4 +1,4 @@
-# OpenAI Intro Email
+# OpenAI intro email
 
 |          |     |                               |     |
 | -------- | --- | ----------------------------- | --- |

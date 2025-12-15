@@ -1,4 +1,4 @@
-# Apple Farewell Email
+# Apple farewell email
 
 |          |     |                                         |     |
 | -------- | --- | --------------------------------------- | --- |

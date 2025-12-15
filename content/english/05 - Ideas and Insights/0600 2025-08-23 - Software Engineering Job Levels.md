@@ -1,4 +1,4 @@
-# Software Engineering Job Levels
+# Software Engineering job levels
 
 Like tabs vs spaces, vim vs emacs and C++ vs Rust, talking about Job Levels is a contentious point. Primarily because the way you climb the career ladder is very different from company to company, but also because career ladders are a made-up concept and because labelling people is generally a very bad idea.
 

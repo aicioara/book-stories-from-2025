@@ -1,4 +1,4 @@
-# Apple Introduction Email
+# Apple introduction email
 
 
 |          |     |                         |     |
