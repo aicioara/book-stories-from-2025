@@ -107,6 +107,8 @@ My first task was to add a famingo next to the crocodile on the bottom-left side
 >
 > Mentor: There's probably a single crocodile in the entire codebase.
 
+![](attachments/ChatGPT%20Image%20Oct%2025,%202025,%2002_32_26%20PM.png)
+
 This interaction was pivotal to my career. The way I always onboarded codebases was by grepping. Finding the place where a change had to be made became the most important skill for a software engineer. However, the approach is completely flawed. Like in the conversation above, if I could not find an anchor, in this case the crocodile, that is unique enough to narrow down my search, I would be completely lost. Similarly, if they named it "creature" instead of "crocodile" (something called tribal knowledge), there would be no way to find it without asking a colleague.
 
 LLMs are incredibly good at retrieving information and answering natural language questions. The biggest limitation right now is ingesting and indexing the entire codebase. Large companies such as Google and OpenAI have already made these integrations in house. It is unclear to me how smaller companies can achieve this, but it will probably be a combination of RAG, MCP servers, stuffed context windows or fine tuning and it will come as a turn-key solution from a provider such as GitHub.

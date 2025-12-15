@@ -13,9 +13,6 @@
 
 
 
-![Placing 130 out of 21,647 contestants at one of LeetCode competitions](attachments/Screen%20Shot%202025-08-23%20at%2008.31.46.png)
-
-
 
 - The daily problem on Leetcode, every day, no skip, no pre-reading solutions
 	- This got me into the right headspace
@@ -42,6 +39,8 @@
 	- I worked a lot on accelerating Python solutions using numpy.
 	- I worked a bit on rewriting some code to C++ for side-by-side comparison with numpy. Numpy was always faster!
 	- Python makes Dynamic Programming problems super easy with `@functools.cache`
+
+![Placing 130 out of 21,647 contestants at one of LeetCode competitions](attachments/Screen%20Shot%202025-08-23%20at%2008.31.46.png)
 
 #### System Design
 

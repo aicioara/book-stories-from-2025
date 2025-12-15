@@ -1,5 +1,7 @@
 # The future of Software Engineering
 
+![](attachments/ChatGPT%20Image%20Oct%2025,%202025,%2002_49_54%20PM.png)
+
 A couple of days ago, I met my high school Computer Science teacher while waiting in line at the supermarket. She and I spent a lot of time preparing my studies back in the day, and she also happens to be one of my favorite teachers, so we've kept in touch over the years. I often get invited for fireside-chat-style conversations with her and her current students at high school, but this time I was in a rush, so I had to decline the invitation. However, she did have one burning question that we briefly discussed while waiting in line.
 
 What is the future of software engineering and will Computer Science high school students have a job when they graduate, 4-8 years from now, or should they study something else?
@@ -37,9 +39,5 @@ One last point that I want to make is a twist on Parkinson's Law: "Work expands 
 To conclude what turned out to be a pretty long article, I believe that teenagers who enter the Software Engineering workforce in 4-8 years time should not yet worry about whether or not this career exists by then.
 
 However, a paradigm shift already started and, because of that, Software Engineering will look very different in 4-8 years than it looks today. A totally different set of skills will be needed. Just like writing assembly code was a skill that became redundant in the 50s when Fortran, Lisp and Cobol were introduced, modern programming languages may also become redundant in a few decades. As a developer, you should always learn and always perfect your craft. In fact, as any profession, you should always strive to get better at your craft.
-
-Next week, I will write more about my experience with vibe coding and were do we actually stand. If you like this article, make sure you check that one as well. As always, I am always looking for feedback, so don't feel shy, press REPLY and say hi.
-
-You are reading here the beginning of what will be a future blog article. If you are interested in contributing to the piece with any ideas, please reach out by hitting REPLY to this email.
 
 Andrei
