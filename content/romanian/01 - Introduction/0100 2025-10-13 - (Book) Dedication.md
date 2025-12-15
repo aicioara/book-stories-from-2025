@@ -3,8 +3,8 @@
 
 \begin{center}
 
-\textit{Dedicated to my wife, Laura}
+\textit{Soției mele, Laura}
 
-\textit{The strongest supporter for every crazy idea that I have}
+\textit{Mulțumesc pentru sprijinul continuu în toate ideile mele}
 
 \end{center}
