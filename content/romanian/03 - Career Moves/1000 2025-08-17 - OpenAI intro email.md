@@ -1,4 +1,4 @@
-# Email de introducere OpenAI
+# Email de introducere la OpenAI
 
 |          |     |                               |     |
 | -------- | --- | ----------------------------- | --- |

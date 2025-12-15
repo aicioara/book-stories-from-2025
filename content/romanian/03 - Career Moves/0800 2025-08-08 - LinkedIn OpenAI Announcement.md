@@ -1,11 +1,11 @@
-# Mă alătur OpenAI
+# Mă angajez la OpenAI
 
 |          |     |                             |     |
 | -------- | --- | --------------------------- | --- |
 | from:    |     | Andrei Cioara @andreicioara |     |
 | to:      |     | Audiența LinkedIn           |     |
 | date:    |     | 11 august 2025, 7:55 AM    |     |
-| subject: |     | Mă alătur OpenAI            |     |
+| subject: |     | Mă angajez la OpenAI            |     |
 
 Sunt bucuros să pot împărtăși, în sfârșit, că mă alătur OpenAI ca Member of Technical Staff (Principal Software Engineer), cu focus pe Machine Learning Infrastructure pentru ChatGPT.
 

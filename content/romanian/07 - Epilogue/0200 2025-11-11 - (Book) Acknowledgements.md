@@ -10,4 +10,4 @@ Vreau să le mulțumesc bunicilor mei, care au fost principala sursă de inspira
 
 Vreau să îi mulțumesc și prietenului meu Bogdan Băcilă, care m-a ajutat cu aspectele tehnice ale scrierii acestei cărți, în special conversia din Markdown în PDF și unele particularități legate de fonturi și emoji-uri, precum și pentru direcția tehnică.
 
-În final, vreau să mulțumesc audienței mele din newsletterul de la https://family.andreicioara.com, care a primit unele dintre aceste articole în avans și care a interacționat cu mine în încercarea mea de a spune povești mai bune.
+În final, vreau să mulțumesc audienței mele din newsletterul de la https://family.andreicioara.com, care a primit unele dintre aceste articole în avans și care m-a ajutat să spun povești mai bune.

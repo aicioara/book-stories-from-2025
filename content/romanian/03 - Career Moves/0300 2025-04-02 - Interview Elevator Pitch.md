@@ -1,4 +1,4 @@
-# Elevator Pitch pentru interviu
+# "Elevator Pitch" pentru interviu
 
 |          |     |                                        |     |
 | -------- | --- | -------------------------------------- | --- |

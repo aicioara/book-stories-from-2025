@@ -1,4 +1,4 @@
-# Mesaj Pentru Cititorii mei Români
+# Mesaj pentru cititorii mei Români
 
 Ceea ce urmează să citiți este un experiment.
 
