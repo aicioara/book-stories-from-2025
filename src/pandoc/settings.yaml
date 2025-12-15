@@ -3,7 +3,6 @@ to: pdf
 pdf-engine: lualatex
 
 metadata:
-  title: "Stories from 2025"
   author: "ANDREI - IOAN CIOARA"
 
 # A5 size is 148x210 mm

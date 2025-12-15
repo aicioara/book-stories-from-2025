@@ -1,0 +1,13 @@
+% TOC on the right page (1 blank page before) + dedication page before
+\let\oldtableofcontents\tableofcontents
+\renewcommand{\tableofcontents}{
+  \thispagestyle{empty}\null\newpage % Back of title page
+  \thispagestyle{empty}
+    \vspace*{2cm}
+    \begin{center}
+      {\Large $Amintiri\ din\ 2025$}
+    \end{center}
+  \newpage % Signature Page
+  \thispagestyle{empty}\null\newpage % Back of signature page
+  \oldtableofcontents
+}

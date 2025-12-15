@@ -22,11 +22,13 @@ docker run -it --rm \
     -v "/Users/aicioara/diary/diary/diary/:/Users/aicioara/diary/diary/diary/:ro" \
     pandoc-aicioara:3.7.0.2 \
     --defaults=settings.yaml \
+    --defaults=settings-en.yaml \
     --defaults=input_files_english.yaml \
     --include-in-header=header.tex \
+    --include-in-header=header-en.tex \
     -o "/output/StoriesFrom2025 - Draft $today - Blank.pdf"
 
-exit 0
+# exit 0
 
 # Romanian
 docker run -it --rm \
@@ -38,6 +40,8 @@ docker run -it --rm \
     --defaults=settings.yaml \
     --defaults=input_files_romanian.yaml \
     --include-in-header=header.tex \
+    --include-in-header=header-ro.tex \
+    --defaults=settings-ro.yaml \
     -o "/output/StoriesFrom2025 - Romanian $today - Blank.pdf"
 
 exit 0

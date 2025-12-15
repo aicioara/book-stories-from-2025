@@ -79,16 +79,16 @@
     \vspace{0.5\baselineskip} % space after
   }
 
-% TOC on the right page (1 blank page before)
-\let\oldtableofcontents\tableofcontents
-\renewcommand{\tableofcontents}{
-  \thispagestyle{empty}\null\newpage % Blank page for dedication
-  \thispagestyle{empty}
-    \vspace*{2cm}
-    \begin{center}
-      {\Large $Stories\ from\ 2025$}
-    \end{center}
-  \newpage % Back of blank page
-  \thispagestyle{empty}\null\newpage % Start TOC on the right
-  \oldtableofcontents
+% Macro
+\newcommand{\partblankleft}[1]{%
+  \clearpage
+  % If we're about to start an odd page now, it means the previous page was even
+  % (so we'd otherwise see content facing the \part). Insert a blank odd page.
+  \ifodd\value{page}%
+    \thispagestyle{empty}\null\newpage
+  \fi
+  % Now insert the blank even (left) page that will face the \part page.
+  \thispagestyle{empty}\null\newpage
+  % Now we're on an odd (right) page: place the part.
+  \part{#1}%
 }

@@ -1,0 +1,6 @@
+metadata:
+  title: "Amintiri din 2025"
+  header-includes:
+    - |
+      \AtBeginDocument{\renewcommand{\contentsname}{Cuprins}}
+# toc-depth: Cuprinsuri
