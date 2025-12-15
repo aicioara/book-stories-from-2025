@@ -1,1 +1,13 @@
-# Acknowledgements
+# Mulțumiri
+
+În primul rând, vreau să îi mulțumesc soției mele, Laura Cioara, pentru că m-a susținut și încurajat să scriu prima mea carte și pentru brainstormingul de idei legate de conținut. Îți mulțumesc că m-ai ajutat să îmi găsesc timp să scriu această carte în timp ce lucram săptămâni de 70 de ore, făceam drumuri, aveam grijă de sănătate și construiam cea mai importantă relație din viața mea.
+
+Vreau să le mulțumesc părinților mei, care m-au încurajat să explorez lumea de la o vârstă fragedă și care au sărbătorit primele mele scrieri.
+
+Vreau să le mulțumesc bunicilor mei, care au fost principala sursă de inspirație pentru această carte. Cartea a început ca o încercare de a tipări pur și simplu articolele mele de pe blog pentru plăcerea lor, fără internet.
+
+În continuare, vreau să îi mulțumesc lui ChatGPT pentru corectarea unora dintre textele mele originale, pentru ajutorul cu blocajele de scris, pentru generarea majorității graficelor din această carte și pentru traducerea versiunii originale din engleză în română.
+
+Vreau să îi mulțumesc și prietenului meu Bogdan Bacila, care m-a ajutat cu aspectele tehnice ale scrierii acestei cărți, în special conversia din Markdown în PDF și unele particularități legate de fonturi și emoji-uri, precum și pentru direcția tehnică.
+
+În final, vreau să mulțumesc audienței mele din newsletterul de la https://family.andreicioara.com, care a primit unele dintre aceste articole în avans și care a interacționat cu mine în încercarea mea de a construi povești mai bune.

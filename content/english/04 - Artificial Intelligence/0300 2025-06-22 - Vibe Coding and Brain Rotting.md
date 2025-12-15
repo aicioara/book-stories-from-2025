@@ -1,9 +1,3 @@
----
-tags:
-  - Newsletter
-description: I do not quite like how this thing turned out.
----
-
 # Vibe Coding and Brain Rotting
 
 Last week I shared my opinion about the future of Software Engineering as a career. This week, I want to continue on that thread and share some concerns about the future that we are creating for ourselves.
