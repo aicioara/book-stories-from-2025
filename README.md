@@ -13,7 +13,7 @@ For full bleed images, you need
 To fix rotation that lualatex cannot do.
 
 ```bash
-magick input.jpg -auto-orient output.jpg
+INPUT="IMG_9096.jpg" magick "$INPUT" -auto-orient "$INPUT.2" && mv "$INPUT.2" "$INPUT"
 ```
 
 ## High Level TOC
