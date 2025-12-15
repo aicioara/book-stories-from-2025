@@ -5,6 +5,7 @@ I wrote a blog article in English. Now I need to translate it to Romanian and to
 - Do not change punctuation, in particular keep the quotes " and ' the same
 - Do not change the Markdown or Latex directives. Tables should remain the same, images should remain the same, etc, but the captions for the images and the data in the tables should, of course, be translated
 - Just output the correct text, nothing more and nothing less.
+- Use the correct diacritics for Romanian
 - Please print it as code, so that I can easily paste the Markdown
 
 Please help me with this translation. When making the translation I want you to preserve the tone of the article, so that it looks as if I wrote it myself, but also make it sound natural, as if I was a native Romanian speaker. The text follows.

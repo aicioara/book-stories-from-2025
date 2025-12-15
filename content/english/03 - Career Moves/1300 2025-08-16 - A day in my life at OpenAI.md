@@ -18,5 +18,5 @@ This is how an average day goes
 - 18:30 - Finish dinner
 - 18:40 - Now it depends, sometimes I leave right after dinner (18:40), other times I go back to work and work until 19:30. And if I take the Caltrain, I must leave at 18:00. I'd say most days, I leave at 18:40
 - 19:30 - Arrive home. If I stayed longer, then 20:30. I do not open the laptop. I spend time with Laura. Generally, we have a few options: go for a walk, go for a swim, stay for a beer and chatter at home
-- 21:00 - Attempt to go to to my room. Usually I only start the attempt at 21:30
-- 21:30 - Attempt to sleep. Usually I only attept to sleep at 22:00
+- 21:00 - Attempt to go to to my room. Usually I only manage at 21:30
+- 21:30 - Attempt to sleep. Usually I only manage to sleep at 22:00
