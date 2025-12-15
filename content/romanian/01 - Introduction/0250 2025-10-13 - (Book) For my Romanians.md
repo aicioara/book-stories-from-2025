@@ -2,7 +2,7 @@
 
 Ceea ce urmează să citiți este un experiment.
 
-Am plecat din România acum mai bine de 13 ani. De 13 ani încoace nu a mai fost nevoie deloc să scriu în limba română. Toate materialele tehnice pe care le pregătesc pentru muncă sunt în limba engleză, toate email-urile pe care le trimit sunt în limba engleză și toată pregătirea mea lingvistică este acum în limba engleză. Din acest motiv, pentru scris (și doar pentru scris), îmi este mult mai natural să scriu direct în limba engleză.
+Am plecat din România acum mai bine de 13 ani. De 13 ani încoace nu a mai fost nevoie deloc să scriu în limba română. Toate materialele tehnice pe care le pregătesc pentru muncă sunt în limba engleză, toate email-urile pe care le trimit sunt în limba engleză și toată pregătirea mea lingvistică este, de un deceniu încoace, în limba engleză. Din acest motiv, pentru scris (și doar pentru scris), îmi este mult mai natural să scriu direct în limba engleză.
 
 De foarte multă vreme îmi doresc să traduc o parte din articolele pe care le scriu din limba engleză în limba română ca să împărtășesc aceste idei și apropiaților care nu vorbesc limba engleză. Cu toate astea, tradusul cere timp, iar timp este ceva ce nu am.
 

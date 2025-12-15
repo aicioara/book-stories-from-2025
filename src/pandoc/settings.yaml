@@ -15,16 +15,17 @@ variables:
   documentclass: book
   classoption: [openany]
   geometry:
-    - inner=18mm        # choose preset values
-    - outer=18mm
+    - inner=13mm        # 18 - 2*5 for gutter
+    - outer=13mm
     - top=18mm
     - bottom=25mm
-    # - papersize={154.36mm,216.36mm} # A5 + 2 * 3.18mm bleed
-    # - layoutwidth=148mm             # Actual A5 width
-    # - layoutheight=210mm            # Actual A5 height
-    # - layoutoffset={3.18mm,3.18mm}  # Center
+    - bindingoffset=10mm
+    - papersize={154.36mm,216.36mm} # A5 + 2 * 3.18mm bleed
+    - layoutwidth=148mm             # Actual A5 width
+    - layoutheight=210mm            # Actual A5 height
+    - layoutoffset={3.18mm,3.18mm}  # Center
     # - showcrop                      # shows crop marks at trim edges
-    - papersize={148mm,210mm}
+    # - papersize={148mm,210mm}
   fontsize: 10pt
 
 

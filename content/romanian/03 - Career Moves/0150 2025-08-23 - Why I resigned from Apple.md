@@ -52,7 +52,7 @@ Un lucru de menționat este că mi-a plăcut foarte mult perioada mea la Apple. 
 
 ## Picătura care a umplut paharul
 
-Au existat câteva tăieturi de hârtie care m-au enervat la Apple
+Au existat câteva "tăieturi de hârtie" care m-au supărat la Apple
 - Nu exista mâncare gratuită
 - Nu existau ieșiri de echipă sau un sentiment de apartenență
 - Era foarte greu să ajungi la conferințe în zilele astea
