@@ -26,7 +26,7 @@ docker run -it --rm \
     --defaults=input_files_english.yaml \
     --include-in-header=header.tex \
     --include-in-header=header-en.tex \
-    -o "/output/StoriesFrom2025 - Draft $today - Blank.pdf"
+    -o "/output/StoriesFrom2025 - English $today.pdf"
 
 # exit 0
 
@@ -42,7 +42,7 @@ docker run -it --rm \
     --include-in-header=header.tex \
     --include-in-header=header-ro.tex \
     --defaults=settings-ro.yaml \
-    -o "/output/StoriesFrom2025 - Romanian $today - Blank.pdf"
+    -o "/output/StoriesFrom2025 - Romanian $today.pdf"
 
 exit 0
 
