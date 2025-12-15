@@ -6,7 +6,7 @@ Salut!
 
 Știu că am promis newslettere și nu am livrat nimic de ceva vreme, dar crede-mă, mă deranjează pe mine mai mult decât pe tine. Dar ce mod mai bun de a relua această serie de newslettere decât să te pun la curent cu ce ai ratat.
 
-Ca reamintire, citești newsletterul doar pe bază de invitație pentru Friends and Family ai lui Andrei Cioară, scris de mine, fără niciun ajutor de la AI, iar astăzi îți voi face un rezumat rapid a tot ce s-a întâmplat în viața mea în ultimele 6 luni.
+Ca reamintire, citești newsletterul doar pe bază de invitație pentru Friends and Family ai lui Andrei Cioara, scris de mine, fără niciun ajutor de la AI, iar astăzi îți voi face un rezumat rapid a tot ce s-a întâmplat în viața mea în ultimele 6 luni.
 
 Voi numi 15 decembrie 2024 prima zi a anului, pentru că atunci eu și Laura ne-am mutat în sfârșit și oficial în Statele Unite. Asta a însemnat gata cu dus-întorsul între continente în timp ce încercam să facem lucrurile să meargă. Povestea asta o las pe altă dată.
 
