@@ -1,1 +1,13 @@
-metadata:
+# A5 size is 148x210 mm
+# Bleed is defined as 0.125 in (3.18 mm) on each edge (6.36 mm added to each length)
+# https://help.lulu.com/en/support/solutions/articles/64000255584-what-is-full-bleed-
+
+variables:
+  geometry:
+    - inner=13mm        # 18 - 2*5 for gutter
+    - outer=13mm
+    - top=18mm
+    - bottom=25mm
+    - layoutwidth=148mm             # Actual A5 width
+    - layoutheight=210mm            # Actual A5 height
+    - papersize={148mm,210mm}

@@ -5,27 +5,12 @@ pdf-engine: lualatex
 metadata:
   author: "ANDREI - IOAN CIOARA"
 
-# A5 size is 148x210 mm
-# Bleed is defined as 0.125 in (3.18 mm) on each edge (6.36 mm added to each length)
-# https://help.lulu.com/en/support/solutions/articles/64000255584-what-is-full-bleed-
-#
 # Fonts are discussed in
 # https://chatgpt.com/share/68ed6cef-d4e0-8005-a8cd-170b36ac0f91
+# Variables are defined inside the settings-format-* files
 variables:
   documentclass: book
   classoption: [openany]
-  geometry:
-    - inner=13mm        # 18 - 2*5 for gutter
-    - outer=13mm
-    - top=18mm
-    - bottom=25mm
-    - bindingoffset=10mm
-    - papersize={154.36mm,216.36mm} # A5 + 2 * 3.18mm bleed
-    - layoutwidth=148mm             # Actual A5 width
-    - layoutheight=210mm            # Actual A5 height
-    - layoutoffset={3.18mm,3.18mm}  # Center
-    # - showcrop                      # shows crop marks at trim edges
-    # - papersize={148mm,210mm}
   fontsize: 10pt
 
 
