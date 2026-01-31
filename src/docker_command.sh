@@ -53,7 +53,7 @@ echo "Generating $filename"
     --defaults=settings-format-ebook.yaml \
     --defaults=input-files-romanian.yaml \
     --include-in-header=header.tex \
-    --include-in-header=header-cover-en.tex \
+    --include-in-header=header-cover-ro.tex \
     --include-in-header=header-language-ro.tex \
     -o "/workspace/output/$filename"
 echo -e "\n\n"
