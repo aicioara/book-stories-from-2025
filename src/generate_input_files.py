@@ -19,7 +19,7 @@ def main():
         for book in books:
             chapters = sorted(os.listdir(os.path.join(content_base, book)))
             for chapter in chapters:
-                input = os.path.join("/", content_base, book, chapter) # Docker path starts with `/`
+                input = os.path.join("/", "workspace", content_base, book, chapter) # Docker path starts with `/workspace`
                 input_files.append(input)
 
         with open(f"src/pandoc/input_files_{language}.yaml", "w") as fd:

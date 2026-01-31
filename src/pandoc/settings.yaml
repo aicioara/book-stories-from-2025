@@ -37,5 +37,5 @@ toc-depth: 1
 
 # Allows attachments
 resource-path:
-  - /content
+  - /workspace/content
   - .

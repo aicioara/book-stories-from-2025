@@ -11,22 +11,40 @@ FROM pandoc/extra:3.7.0.2-ubuntu
 # Make sure we have LuaLaTeX + extras and emoji fonts
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
-      texlive-luatex texlive-latex-extra \
-      fonts-noto fonts-noto-color-emoji \
-      && rm -rf /var/lib/apt/lists/*
+        texlive-luatex \
+        texlive-xetex \
+        texlive-latex-recommended \
+        texlive-latex-extra \
+        fonts-noto \
+        fonts-noto-color-emoji \
+        fonts-texgyre \
+        fonts-liberation2 \
+        fonts-dejavu-core \
+        fontconfig \
+    && rm -rf /var/lib/apt/lists/*
 
-RUN apt-get update
+# RUN apt-get update && \
+#     apt-get install -y --no-install-recommends \
+#       texlive-luatex texlive-latex-extra \
+#       fonts-noto fonts-noto-color-emoji \
+#       && rm -rf /var/lib/apt/lists/*
 
-RUN apt-get install -y \
-    texlive-xetex texlive-latex-recommended texlive-latex-extra \
-    fontconfig fonts-texgyre fonts-liberation2 fonts-dejavu-core
+# RUN apt-get update
 
-RUN apt-get install -y \
-    texlive-luatex texlive-latex-recommended texlive-latex-extra \
-    fonts-texgyre fonts-noto-color-emoji fontconfig
+# RUN apt-get install -y \
+#     texlive-xetex texlive-latex-recommended texlive-latex-extra \
+#     fontconfig fonts-texgyre fonts-liberation2 fonts-dejavu-core
+
+# RUN apt-get install -y \
+#     texlive-luatex texlive-latex-recommended texlive-latex-extra \
+#     fonts-texgyre fonts-noto-color-emoji fontconfig
 
 RUN touch /v2
 
 COPY fonts /usr/share/fonts/truetype/apple/
+RUN mkdir -p /workspace/src/
+ADD docker_command.sh /workspace/src
 
-WORKDIR /pandoc
+WORKDIR /workspace
+ENTRYPOINT []
+CMD ["/bin/bash", "/workspace/src/docker_command.sh"]
