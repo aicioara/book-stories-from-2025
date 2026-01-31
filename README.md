@@ -11,11 +11,12 @@ There are always things that could be improved. Below is a list of things that I
 
 ## TODOs
 
-These are all the things that I did not have time to fix for the first edition. May be worth fixing once.
+These are all the things that I did not have time to fix for the first edition. May be worth fixing at some point.
 
 - Table of Contents in Romanian says "Contents" instead of "Cuprins"
 - I could not get fullbleed images to work
 - Fix all warnings in the console
+- Add a nicer full-size jpeg for the cover
 
 ## Content
 
