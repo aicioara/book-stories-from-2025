@@ -6,24 +6,22 @@ set -xe
 today=$(date +%Y-%m-%d)
 
 
-# English
+# English Print
 /usr/local/bin/pandoc \
     --defaults=settings.yaml \
-    --defaults=settings-en.yaml \
+    --defaults=settings-language-en.yaml \
     --defaults=input_files_english.yaml \
     --include-in-header=header.tex \
-    --include-in-header=header-en.tex \
-    -o "/workspace/output/StoriesFrom2025 - English $today.pdf"
+    --include-in-header=header-language-en.tex \
+    -o "/workspace/output/StoriesFrom2025 - English - Print - $today.pdf"
 
-exit 0
-
-# Romanian
+# Romanian Print
 /usr/local/bin/pandoc \
     --defaults=settings.yaml \
+    --defaults=settings-language-ro.yaml \
     --defaults=input_files_romanian.yaml \
     --include-in-header=header.tex \
-    --include-in-header=header-ro.tex \
-    --defaults=settings-ro.yaml \
-    -o "workspace/output/StoriesFrom2025 - Romanian $today.pdf"
+    --include-in-header=header-language-ro.tex \
+    -o "/workspace/output/StoriesFrom2025 - Romanian - Print - $today.pdf"
 
 exit 0
