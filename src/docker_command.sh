@@ -13,9 +13,22 @@ echo "Generating: $filename..."
     --defaults=settings.yaml \
     --defaults=settings-language-en.yaml \
     --defaults=settings-format-print.yaml \
-    --defaults=input_files_english.yaml \
+    --defaults=input-files-english.yaml \
     --include-in-header=header.tex \
     --include-in-header=header-language-en.tex \
+    -o "/workspace/output/$filename"
+echo -e "\n\n"
+
+filename="StoriesFrom2025 - English - Print NoImage - $today.pdf"
+echo "Generating: $filename..."
+/usr/local/bin/pandoc \
+    --defaults=settings.yaml \
+    --defaults=settings-language-en.yaml \
+    --defaults=settings-format-print.yaml \
+    --defaults=input-files-english.yaml \
+    --include-in-header=header.tex \
+    --include-in-header=header-language-en.tex \
+    --lua-filter=filter-no-images.lua \
     -o "/workspace/output/$filename"
 echo -e "\n\n"
 
@@ -25,7 +38,7 @@ echo "Generating: $filename..."
     --defaults=settings.yaml \
     --defaults=settings-language-en.yaml \
     --defaults=settings-format-ebook.yaml \
-    --defaults=input_files_english.yaml \
+    --defaults=input-files-english.yaml \
     --include-in-header=header.tex \
     --include-in-header=header-language-en.tex \
     -o "/workspace/output/$filename"
@@ -37,9 +50,22 @@ echo "Generating: $filename..."
     --defaults=settings.yaml \
     --defaults=settings-language-ro.yaml \
     --defaults=settings-format-print.yaml \
-    --defaults=input_files_romanian.yaml \
+    --defaults=input-files-romanian.yaml \
     --include-in-header=header.tex \
     --include-in-header=header-language-ro.tex \
+    -o "/workspace/output/$filename"
+echo -e "\n\n"
+
+filename="StoriesFrom2025 - Romanian - Print Noimage - $today.pdf"
+echo "Generating: $filename..."
+/usr/local/bin/pandoc \
+    --defaults=settings.yaml \
+    --defaults=settings-language-ro.yaml \
+    --defaults=settings-format-print.yaml \
+    --defaults=input-files-romanian.yaml \
+    --include-in-header=header.tex \
+    --include-in-header=header-language-ro.tex \
+    --lua-filter=filter-no-images.lua \
     -o "/workspace/output/$filename"
 echo -e "\n\n"
 
@@ -49,7 +75,7 @@ echo "Generating $filename"
     --defaults=settings.yaml \
     --defaults=settings-language-ro.yaml \
     --defaults=settings-format-ebook.yaml \
-    --defaults=input_files_romanian.yaml \
+    --defaults=input-files-romanian.yaml \
     --include-in-header=header.tex \
     --include-in-header=header-language-ro.tex \
     -o "/workspace/output/$filename"

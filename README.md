@@ -2,12 +2,19 @@
 
 There are always things that could be improved. Below is a list of things that I would have done if I had more time
 
+## How to compile
+
+```bash
+./src/main.sh
+```
+
 ## TODOs
 
 These are all the things that I did not have time to fix for the first edition. May be worth fixing once.
 
 - Table of Contents in Romanian says "Contents" instead of "Cuprins"
 - I could not get fullbleed images to work
+- Fix all warnings in the console
 
 ## Content
 

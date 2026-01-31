@@ -4,14 +4,16 @@ THIS_DIR=$(dirname "$0")
 cd "${THIS_DIR}"
 cd ..
 
-set -xe
+set -e
 
 cd src
 docker build -t pandoc-aicioara:3.7.0.2 .
 cd -
 
+echo "Running setup scripts..."
 python src/generate_input_files.py
 
+echo "Running docker..."
 docker run -it --rm \
     -v "${PWD}/content:/workspace/content" \
     -v "${PWD}/output:/workspace/output" \

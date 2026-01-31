@@ -22,7 +22,7 @@ def main():
                 input = os.path.join("/", "workspace", content_base, book, chapter) # Docker path starts with `/workspace`
                 input_files.append(input)
 
-        with open(f"src/pandoc/input_files_{language}.yaml", "w") as fd:
+        with open(f"src/pandoc/input-files-{language}.yaml", "w") as fd:
             json.dump({"input-files": input_files}, fd, indent=2)
 
 if __name__ == "__main__":
