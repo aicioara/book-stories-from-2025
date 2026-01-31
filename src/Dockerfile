@@ -22,6 +22,9 @@ RUN apt-get update && \
         fontconfig \
     && rm -rf /var/lib/apt/lists/*
 
+RUN tlmgr update --self && \
+    tlmgr install pdfpages pdflscape
+
 RUN touch /v2
 
 COPY fonts /usr/share/fonts/truetype/apple/

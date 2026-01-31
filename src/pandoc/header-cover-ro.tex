@@ -1,0 +1,10 @@
+\usepackage{pdfpages}
+\AtBeginDocument{
+  \includepdf[
+    pages=1,
+    pagebox=cropbox,
+    fitpaper=false,
+    scale=1.05,
+  ]{/workspace/content/covers/FrontCoverRomanian.pdf}
+  \newpage
+}
