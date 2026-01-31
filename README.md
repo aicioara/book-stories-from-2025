@@ -6,6 +6,7 @@ There are always things that could be improved. Below is a list of things that I
 
 ```bash
 ./src/main.sh
+# View output in ./outputs/
 ```
 
 ## TODOs
