@@ -21,7 +21,7 @@ docker run -it --rm \
 
 exit 0
 
-# Debug
+# Debug Docker by removing the exit 0 above
 docker run -it --rm \
     -v "${PWD}/content:/workspace/content" \
     -v "${PWD}/output:/workspace/output" \
